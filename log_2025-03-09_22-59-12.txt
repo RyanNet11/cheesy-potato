@@ -1,0 +1,1455 @@
+2025-03-09 22:59:12 - Checking if BF4 is running
+2025-03-09 22:59:14 - - Game is NOT running
+2025-03-09 22:59:14 - Checking if EA app is running
+2025-03-09 22:59:14 - ea app running? True
+2025-03-09 22:59:15 - -- API Data Received
+2025-03-09 22:59:15 - -- API Data Processed
+2025-03-09 22:59:17 - -- Battlelog Data Received
+2025-03-09 22:59:17 - -- Battlelog Data Processed
+2025-03-09 22:59:17 - Finding Server to join
+2025-03-09 22:59:17 - RC1 has less than 30 players
+2025-03-09 22:59:17 - Checking if BF4 is running
+2025-03-09 22:59:19 - - Game is NOT running
+2025-03-09 22:59:19 - RC1  needs players, joining now
+2025-03-09 22:59:19 - RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz
+2025-03-09 22:59:55 - Finding Server to join
+2025-03-09 22:59:55 - RC1 has less than 30 players
+2025-03-09 22:59:55 - Checking if BF4 is running
+2025-03-09 22:59:57 - - Game is NOT running
+2025-03-09 22:59:57 - joining RC1
+2025-03-09 22:59:57 - Game Exicuted
+2025-03-09 23:01:39 - -- API Data Received
+2025-03-09 23:01:39 - -- API Data Processed
+2025-03-09 23:01:40 - -- Battlelog Data Received
+2025-03-09 23:01:40 - -- Battlelog Data Processed
+2025-03-09 23:01:40 - Finding Server to join
+2025-03-09 23:01:40 - RC1 has less than 30 players
+2025-03-09 23:01:40 - Checking if BF4 is running
+2025-03-09 23:01:41 -  - Game IS running
+2025-03-09 23:01:41 - Staying put
+2025-03-09 23:03:23 - -- API Data Received
+2025-03-09 23:03:23 - -- API Data Processed
+2025-03-09 23:03:24 - -- Battlelog Data Received
+2025-03-09 23:03:24 - -- Battlelog Data Processed
+2025-03-09 23:03:24 - Finding Server to join
+2025-03-09 23:03:24 - RC1 has less than 30 players
+2025-03-09 23:03:24 - Checking if BF4 is running
+2025-03-09 23:03:25 -  - Game IS running
+2025-03-09 23:03:25 - Staying put
+2025-03-09 23:05:07 - -- API Data Received
+2025-03-09 23:05:07 - -- API Data Processed
+2025-03-09 23:05:08 - -- Battlelog Data Received
+2025-03-09 23:05:08 - -- Battlelog Data Processed
+2025-03-09 23:05:08 - Finding Server to join
+2025-03-09 23:05:08 - RC1 has less than 30 players
+2025-03-09 23:05:08 - Checking if BF4 is running
+2025-03-09 23:05:09 -  - Game IS running
+2025-03-09 23:05:09 - Staying put
+2025-03-09 23:06:51 - -- API Data Received
+2025-03-09 23:06:51 - -- API Data Processed
+2025-03-09 23:06:52 - -- Battlelog Data Received
+2025-03-09 23:06:52 - -- Battlelog Data Processed
+2025-03-09 23:06:52 - Finding Server to join
+2025-03-09 23:06:52 - RC1 has less than 30 players
+2025-03-09 23:06:52 - Checking if BF4 is running
+2025-03-09 23:06:53 -  - Game IS running
+2025-03-09 23:06:53 - Staying put
+2025-03-09 23:08:35 - -- API Data Received
+2025-03-09 23:08:35 - -- API Data Processed
+2025-03-09 23:08:36 - -- Battlelog Data Received
+2025-03-09 23:08:36 - -- Battlelog Data Processed
+2025-03-09 23:08:36 - Finding Server to join
+2025-03-09 23:08:36 - RC1 has less than 30 players
+2025-03-09 23:08:36 - Checking if BF4 is running
+2025-03-09 23:08:37 -  - Game IS running
+2025-03-09 23:08:37 - Staying put
+2025-03-09 23:10:19 - -- API Data Received
+2025-03-09 23:10:19 - -- API Data Processed
+2025-03-09 23:10:21 - -- Battlelog Data Received
+2025-03-09 23:10:21 - -- Battlelog Data Processed
+2025-03-09 23:10:21 - Finding Server to join
+2025-03-09 23:10:21 - RC1 has less than 30 players
+2025-03-09 23:10:21 - Checking if BF4 is running
+2025-03-09 23:10:22 -  - Game IS running
+2025-03-09 23:10:22 - Staying put
+2025-03-09 23:12:03 - -- API Data Received
+2025-03-09 23:12:03 - -- API Data Processed
+2025-03-09 23:12:05 - -- Battlelog Data Received
+2025-03-09 23:12:05 - -- Battlelog Data Processed
+2025-03-09 23:12:05 - Finding Server to join
+2025-03-09 23:12:05 - RC1 has less than 30 players
+2025-03-09 23:12:05 - Checking if BF4 is running
+2025-03-09 23:12:06 -  - Game IS running
+2025-03-09 23:12:06 - Staying put
+2025-03-09 23:13:47 - -- API Data Received
+2025-03-09 23:13:47 - -- API Data Processed
+2025-03-09 23:13:49 - -- Battlelog Data Received
+2025-03-09 23:13:49 - -- Battlelog Data Processed
+2025-03-09 23:13:49 - Finding Server to join
+2025-03-09 23:13:49 - RC1 has less than 30 players
+2025-03-09 23:13:49 - Checking if BF4 is running
+2025-03-09 23:13:50 -  - Game IS running
+2025-03-09 23:13:50 - Staying put
+2025-03-09 23:15:31 - -- API Data Received
+2025-03-09 23:15:31 - -- API Data Processed
+2025-03-09 23:15:33 - -- Battlelog Data Received
+2025-03-09 23:15:33 - -- Battlelog Data Processed
+2025-03-09 23:15:33 - Finding Server to join
+2025-03-09 23:15:33 - RC1 has less than 30 players
+2025-03-09 23:15:33 - Checking if BF4 is running
+2025-03-09 23:15:34 -  - Game IS running
+2025-03-09 23:15:34 - Staying put
+2025-03-09 23:17:15 - -- API Data Received
+2025-03-09 23:17:15 - -- API Data Processed
+2025-03-09 23:17:17 - -- Battlelog Data Received
+2025-03-09 23:17:17 - -- Battlelog Data Processed
+2025-03-09 23:17:17 - Finding Server to join
+2025-03-09 23:17:17 - RC1 has less than 30 players
+2025-03-09 23:17:17 - Checking if BF4 is running
+2025-03-09 23:17:18 -  - Game IS running
+2025-03-09 23:17:18 - Staying put
+2025-03-09 23:18:59 - -- API Data Received
+2025-03-09 23:18:59 - -- API Data Processed
+2025-03-09 23:19:01 - -- Battlelog Data Received
+2025-03-09 23:19:01 - -- Battlelog Data Processed
+2025-03-09 23:19:01 - Finding Server to join
+2025-03-09 23:19:01 - RC1 has less than 30 players
+2025-03-09 23:19:01 - Checking if BF4 is running
+2025-03-09 23:19:02 -  - Game IS running
+2025-03-09 23:19:02 - Staying put
+2025-03-09 23:20:44 - -- API Data Received
+2025-03-09 23:20:44 - -- API Data Processed
+2025-03-09 23:20:45 - -- Battlelog Data Received
+2025-03-09 23:20:45 - -- Battlelog Data Processed
+2025-03-09 23:20:45 - Finding Server to join
+2025-03-09 23:20:45 - RC1 has less than 30 players
+2025-03-09 23:20:45 - Checking if BF4 is running
+2025-03-09 23:20:46 -  - Game IS running
+2025-03-09 23:20:46 - Staying put
+2025-03-09 23:22:28 - -- API Data Received
+2025-03-09 23:22:28 - -- API Data Processed
+2025-03-09 23:22:29 - -- Battlelog Data Received
+2025-03-09 23:22:29 - -- Battlelog Data Processed
+2025-03-09 23:22:29 - Finding Server to join
+2025-03-09 23:22:29 - RC1 has less than 30 players
+2025-03-09 23:22:29 - Checking if BF4 is running
+2025-03-09 23:22:30 -  - Game IS running
+2025-03-09 23:22:30 - Staying put
+2025-03-09 23:24:12 - -- API Data Received
+2025-03-09 23:24:12 - -- API Data Processed
+2025-03-09 23:24:13 - -- Battlelog Data Received
+2025-03-09 23:24:13 - -- Battlelog Data Processed
+2025-03-09 23:24:13 - Finding Server to join
+2025-03-09 23:24:13 - RC1 has less than 30 players
+2025-03-09 23:24:13 - Checking if BF4 is running
+2025-03-09 23:24:14 -  - Game IS running
+2025-03-09 23:24:14 - Staying put
+2025-03-09 23:25:56 - -- API Data Received
+2025-03-09 23:25:56 - -- API Data Processed
+2025-03-09 23:25:57 - -- Battlelog Data Received
+2025-03-09 23:25:57 - -- Battlelog Data Processed
+2025-03-09 23:25:57 - Finding Server to join
+2025-03-09 23:25:57 - RC1 has less than 30 players
+2025-03-09 23:25:57 - Checking if BF4 is running
+2025-03-09 23:25:59 -  - Game IS running
+2025-03-09 23:25:59 - Staying put
+2025-03-09 23:27:40 - -- API Data Received
+2025-03-09 23:27:40 - -- API Data Processed
+2025-03-09 23:27:41 - -- Battlelog Data Received
+2025-03-09 23:27:41 - -- Battlelog Data Processed
+2025-03-09 23:27:41 - Finding Server to join
+2025-03-09 23:27:41 - RC1 has less than 30 players
+2025-03-09 23:27:41 - Checking if BF4 is running
+2025-03-09 23:27:43 -  - Game IS running
+2025-03-09 23:27:43 - Staying put
+2025-03-09 23:29:24 - -- API Data Received
+2025-03-09 23:29:24 - -- API Data Processed
+2025-03-09 23:29:26 - -- Battlelog Data Received
+2025-03-09 23:29:26 - -- Battlelog Data Processed
+2025-03-09 23:29:26 - Finding Server to join
+2025-03-09 23:29:26 - RC1 has less than 30 players
+2025-03-09 23:29:26 - Checking if BF4 is running
+2025-03-09 23:29:27 -  - Game IS running
+2025-03-09 23:29:27 - Staying put
+2025-03-09 23:31:08 - -- API Data Received
+2025-03-09 23:31:08 - -- API Data Processed
+2025-03-09 23:31:10 - -- Battlelog Data Received
+2025-03-09 23:31:10 - -- Battlelog Data Processed
+2025-03-09 23:31:10 - Finding Server to join
+2025-03-09 23:31:10 - RC1 has less than 30 players
+2025-03-09 23:31:10 - Checking if BF4 is running
+2025-03-09 23:31:11 -  - Game IS running
+2025-03-09 23:31:11 - Staying put
+2025-03-09 23:32:52 - -- API Data Received
+2025-03-09 23:32:52 - -- API Data Processed
+2025-03-09 23:32:54 - -- Battlelog Data Received
+2025-03-09 23:32:54 - -- Battlelog Data Processed
+2025-03-09 23:32:54 - Finding Server to join
+2025-03-09 23:32:54 - RC1 has less than 30 players
+2025-03-09 23:32:54 - Checking if BF4 is running
+2025-03-09 23:32:55 -  - Game IS running
+2025-03-09 23:32:55 - Staying put
+2025-03-09 23:34:36 - -- API Data Received
+2025-03-09 23:34:36 - -- API Data Processed
+2025-03-09 23:34:38 - -- Battlelog Data Received
+2025-03-09 23:34:38 - -- Battlelog Data Processed
+2025-03-09 23:34:38 - Finding Server to join
+2025-03-09 23:34:38 - RC1 has less than 30 players
+2025-03-09 23:34:38 - Checking if BF4 is running
+2025-03-09 23:34:39 -  - Game IS running
+2025-03-09 23:34:39 - Staying put
+2025-03-09 23:36:20 - -- API Data Received
+2025-03-09 23:36:20 - -- API Data Processed
+2025-03-09 23:36:22 - -- Battlelog Data Received
+2025-03-09 23:36:22 - -- Battlelog Data Processed
+2025-03-09 23:36:22 - Finding Server to join
+2025-03-09 23:36:22 - RC1 has less than 30 players
+2025-03-09 23:36:22 - Checking if BF4 is running
+2025-03-09 23:36:23 -  - Game IS running
+2025-03-09 23:36:23 - Staying put
+2025-03-09 23:38:05 - -- API Data Received
+2025-03-09 23:38:05 - -- API Data Processed
+2025-03-09 23:38:06 - -- Battlelog Data Received
+2025-03-09 23:38:06 - -- Battlelog Data Processed
+2025-03-09 23:38:06 - Finding Server to join
+2025-03-09 23:38:06 - RC1 has less than 30 players
+2025-03-09 23:38:06 - Checking if BF4 is running
+2025-03-09 23:38:07 -  - Game IS running
+2025-03-09 23:38:07 - Staying put
+2025-03-09 23:39:49 - -- API Data Received
+2025-03-09 23:39:49 - -- API Data Processed
+2025-03-09 23:39:50 - -- Battlelog Data Received
+2025-03-09 23:39:50 - -- Battlelog Data Processed
+2025-03-09 23:39:50 - Finding Server to join
+2025-03-09 23:39:50 - RC1 has less than 30 players
+2025-03-09 23:39:50 - Checking if BF4 is running
+2025-03-09 23:39:51 -  - Game IS running
+2025-03-09 23:39:51 - Staying put
+2025-03-09 23:41:33 - -- API Data Received
+2025-03-09 23:41:33 - -- API Data Processed
+2025-03-09 23:41:34 - -- Battlelog Data Received
+2025-03-09 23:41:34 - -- Battlelog Data Processed
+2025-03-09 23:41:34 - Finding Server to join
+2025-03-09 23:41:34 - RC1 has less than 30 players
+2025-03-09 23:41:34 - Checking if BF4 is running
+2025-03-09 23:41:36 -  - Game IS running
+2025-03-09 23:41:36 - Staying put
+2025-03-09 23:43:17 - -- API Data Received
+2025-03-09 23:43:17 - -- API Data Processed
+2025-03-09 23:43:19 - -- Battlelog Data Received
+2025-03-09 23:43:19 - -- Battlelog Data Processed
+2025-03-09 23:43:19 - Finding Server to join
+2025-03-09 23:43:19 - RC1 has less than 30 players
+2025-03-09 23:43:19 - Checking if BF4 is running
+2025-03-09 23:43:20 -  - Game IS running
+2025-03-09 23:43:20 - Staying put
+2025-03-09 23:45:01 - -- API Data Received
+2025-03-09 23:45:01 - -- API Data Processed
+2025-03-09 23:45:03 - -- Battlelog Data Received
+2025-03-09 23:45:03 - -- Battlelog Data Processed
+2025-03-09 23:45:03 - Finding Server to join
+2025-03-09 23:45:03 - RC1 has less than 30 players
+2025-03-09 23:45:03 - Checking if BF4 is running
+2025-03-09 23:45:04 -  - Game IS running
+2025-03-09 23:45:04 - Staying put
+2025-03-09 23:46:45 - -- API Data Received
+2025-03-09 23:46:45 - -- API Data Processed
+2025-03-09 23:46:47 - -- Battlelog Data Received
+2025-03-09 23:46:47 - -- Battlelog Data Processed
+2025-03-09 23:46:47 - Finding Server to join
+2025-03-09 23:46:47 - RC1 has less than 30 players
+2025-03-09 23:46:47 - Checking if BF4 is running
+2025-03-09 23:46:48 -  - Game IS running
+2025-03-09 23:46:48 - Staying put
+2025-03-09 23:48:29 - -- API Data Received
+2025-03-09 23:48:29 - -- API Data Processed
+2025-03-09 23:48:31 - -- Battlelog Data Received
+2025-03-09 23:48:31 - -- Battlelog Data Processed
+2025-03-09 23:48:31 - Finding Server to join
+2025-03-09 23:48:31 - RC1 has less than 30 players
+2025-03-09 23:48:31 - Checking if BF4 is running
+2025-03-09 23:48:32 -  - Game IS running
+2025-03-09 23:48:32 - Staying put
+2025-03-09 23:50:14 - -- API Data Received
+2025-03-09 23:50:14 - -- API Data Processed
+2025-03-09 23:50:15 - -- Battlelog Data Received
+2025-03-09 23:50:15 - -- Battlelog Data Processed
+2025-03-09 23:50:15 - Finding Server to join
+2025-03-09 23:50:15 - RC1 has less than 30 players
+2025-03-09 23:50:15 - Checking if BF4 is running
+2025-03-09 23:50:16 -  - Game IS running
+2025-03-09 23:50:16 - Staying put
+2025-03-09 23:51:58 - -- API Data Received
+2025-03-09 23:51:58 - -- API Data Processed
+2025-03-09 23:51:59 - -- Battlelog Data Received
+2025-03-09 23:51:59 - -- Battlelog Data Processed
+2025-03-09 23:51:59 - Finding Server to join
+2025-03-09 23:51:59 - RC1 has less than 30 players
+2025-03-09 23:51:59 - Checking if BF4 is running
+2025-03-09 23:52:00 -  - Game IS running
+2025-03-09 23:52:00 - Staying put
+2025-03-09 23:53:42 - -- API Data Received
+2025-03-09 23:53:42 - -- API Data Processed
+2025-03-09 23:53:43 - -- Battlelog Data Received
+2025-03-09 23:53:43 - -- Battlelog Data Processed
+2025-03-09 23:53:43 - Finding Server to join
+2025-03-09 23:53:43 - RC1 has less than 30 players
+2025-03-09 23:53:43 - Checking if BF4 is running
+2025-03-09 23:53:44 -  - Game IS running
+2025-03-09 23:53:44 - Staying put
+2025-03-09 23:55:26 - -- API Data Received
+2025-03-09 23:55:26 - -- API Data Processed
+2025-03-09 23:55:27 - -- Battlelog Data Received
+2025-03-09 23:55:27 - -- Battlelog Data Processed
+2025-03-09 23:55:27 - Finding Server to join
+2025-03-09 23:55:27 - RC1 has less than 30 players
+2025-03-09 23:55:27 - Checking if BF4 is running
+2025-03-09 23:55:29 -  - Game IS running
+2025-03-09 23:55:29 - Staying put
+2025-03-09 23:57:10 - -- API Data Received
+2025-03-09 23:57:10 - -- API Data Processed
+2025-03-09 23:57:12 - -- Battlelog Data Received
+2025-03-09 23:57:12 - -- Battlelog Data Processed
+2025-03-09 23:57:12 - Finding Server to join
+2025-03-09 23:57:12 - RC1 has less than 30 players
+2025-03-09 23:57:12 - Checking if BF4 is running
+2025-03-09 23:57:13 -  - Game IS running
+2025-03-09 23:57:13 - Staying put
+2025-03-09 23:58:54 - -- API Data Received
+2025-03-09 23:58:54 - -- API Data Processed
+2025-03-09 23:58:56 - -- Battlelog Data Received
+2025-03-09 23:58:56 - -- Battlelog Data Processed
+2025-03-09 23:58:56 - Finding Server to join
+2025-03-09 23:58:56 - RC1 has less than 30 players
+2025-03-09 23:58:56 - Checking if BF4 is running
+2025-03-09 23:58:57 -  - Game IS running
+2025-03-09 23:58:57 - Staying put
+2025-03-10 00:00:38 - -- API Data Received
+2025-03-10 00:00:38 - -- API Data Processed
+2025-03-10 00:00:40 - -- Battlelog Data Received
+2025-03-10 00:00:40 - -- Battlelog Data Processed
+2025-03-10 00:00:40 - Finding Server to join
+2025-03-10 00:00:40 - RC1 has less than 30 players
+2025-03-10 00:00:40 - Checking if BF4 is running
+2025-03-10 00:00:41 -  - Game IS running
+2025-03-10 00:00:41 - Staying put
+2025-03-10 00:02:22 - -- API Data Received
+2025-03-10 00:02:22 - -- API Data Processed
+2025-03-10 00:02:24 - -- Battlelog Data Received
+2025-03-10 00:02:24 - -- Battlelog Data Processed
+2025-03-10 00:02:24 - Finding Server to join
+2025-03-10 00:02:24 - RC1 has less than 30 players
+2025-03-10 00:02:24 - Checking if BF4 is running
+2025-03-10 00:02:25 -  - Game IS running
+2025-03-10 00:02:25 - Staying put
+2025-03-10 00:04:06 - -- API Data Received
+2025-03-10 00:04:06 - -- API Data Processed
+2025-03-10 00:04:08 - -- Battlelog Data Received
+2025-03-10 00:04:08 - -- Battlelog Data Processed
+2025-03-10 00:04:08 - Finding Server to join
+2025-03-10 00:04:08 - RC1 has less than 30 players
+2025-03-10 00:04:08 - Checking if BF4 is running
+2025-03-10 00:04:09 -  - Game IS running
+2025-03-10 00:04:09 - Staying put
+2025-03-10 00:05:50 - -- API Data Received
+2025-03-10 00:05:50 - -- API Data Processed
+2025-03-10 00:05:52 - -- Battlelog Data Received
+2025-03-10 00:05:52 - -- Battlelog Data Processed
+2025-03-10 00:05:52 - Finding Server to join
+2025-03-10 00:05:52 - RC1 has less than 30 players
+2025-03-10 00:05:52 - Checking if BF4 is running
+2025-03-10 00:05:53 -  - Game IS running
+2025-03-10 00:05:53 - Staying put
+2025-03-10 00:07:35 - -- API Data Received
+2025-03-10 00:07:35 - -- API Data Processed
+2025-03-10 00:07:36 - -- Battlelog Data Received
+2025-03-10 00:07:36 - -- Battlelog Data Processed
+2025-03-10 00:07:36 - Finding Server to join
+2025-03-10 00:07:36 - RC1 has less than 30 players
+2025-03-10 00:07:36 - Checking if BF4 is running
+2025-03-10 00:07:36 -  - Game IS running
+2025-03-10 00:07:36 - Staying put
+2025-03-10 00:09:18 - -- API Data Received
+2025-03-10 00:09:18 - -- API Data Processed
+2025-03-10 00:09:19 - -- Battlelog Data Received
+2025-03-10 00:09:19 - -- Battlelog Data Processed
+2025-03-10 00:09:19 - Finding Server to join
+2025-03-10 00:09:19 - RC1 has less than 30 players
+2025-03-10 00:09:19 - Checking if BF4 is running
+2025-03-10 00:09:19 -  - Game IS running
+2025-03-10 00:09:19 - Staying put
+2025-03-10 00:11:01 - -- API Data Received
+2025-03-10 00:11:01 - -- API Data Processed
+2025-03-10 00:11:02 - -- Battlelog Data Received
+2025-03-10 00:11:02 - -- Battlelog Data Processed
+2025-03-10 00:11:02 - Finding Server to join
+2025-03-10 00:11:02 - RC1 has less than 30 players
+2025-03-10 00:11:02 - Checking if BF4 is running
+2025-03-10 00:11:03 -  - Game IS running
+2025-03-10 00:11:03 - Staying put
+2025-03-10 00:12:45 - -- API Data Received
+2025-03-10 00:12:45 - -- API Data Processed
+2025-03-10 00:12:46 - -- Battlelog Data Received
+2025-03-10 00:12:46 - -- Battlelog Data Processed
+2025-03-10 00:12:46 - Finding Server to join
+2025-03-10 00:12:46 - RC1 has less than 30 players
+2025-03-10 00:12:46 - Checking if BF4 is running
+2025-03-10 00:12:47 -  - Game IS running
+2025-03-10 00:12:47 - Staying put
+2025-03-10 00:14:29 - -- API Data Received
+2025-03-10 00:14:29 - -- API Data Processed
+2025-03-10 00:14:30 - -- Battlelog Data Received
+2025-03-10 00:14:30 - -- Battlelog Data Processed
+2025-03-10 00:14:30 - Finding Server to join
+2025-03-10 00:14:30 - RC1 has less than 30 players
+2025-03-10 00:14:30 - Checking if BF4 is running
+2025-03-10 00:14:32 -  - Game IS running
+2025-03-10 00:14:32 - Staying put
+2025-03-10 00:16:13 - -- API Data Received
+2025-03-10 00:16:13 - -- API Data Processed
+2025-03-10 00:16:14 - -- Battlelog Data Received
+2025-03-10 00:16:14 - -- Battlelog Data Processed
+2025-03-10 00:16:14 - Finding Server to join
+2025-03-10 00:16:14 - RC1 has less than 30 players
+2025-03-10 00:16:14 - Checking if BF4 is running
+2025-03-10 00:16:16 -  - Game IS running
+2025-03-10 00:16:16 - Staying put
+2025-03-10 00:17:57 - -- API Data Received
+2025-03-10 00:17:57 - -- API Data Processed
+2025-03-10 00:17:59 - -- Battlelog Data Received
+2025-03-10 00:17:59 - -- Battlelog Data Processed
+2025-03-10 00:17:59 - Finding Server to join
+2025-03-10 00:17:59 - RC1 has less than 30 players
+2025-03-10 00:17:59 - Checking if BF4 is running
+2025-03-10 00:18:00 -  - Game IS running
+2025-03-10 00:18:00 - Staying put
+2025-03-10 00:19:41 - -- API Data Received
+2025-03-10 00:19:41 - -- API Data Processed
+2025-03-10 00:19:43 - -- Battlelog Data Received
+2025-03-10 00:19:43 - -- Battlelog Data Processed
+2025-03-10 00:19:43 - Finding Server to join
+2025-03-10 00:19:43 - RC1 has less than 30 players
+2025-03-10 00:19:43 - Checking if BF4 is running
+2025-03-10 00:19:44 -  - Game IS running
+2025-03-10 00:19:44 - Staying put
+2025-03-10 00:21:25 - -- API Data Received
+2025-03-10 00:21:25 - -- API Data Processed
+2025-03-10 00:21:27 - -- Battlelog Data Received
+2025-03-10 00:21:27 - -- Battlelog Data Processed
+2025-03-10 00:21:27 - Finding Server to join
+2025-03-10 00:21:27 - RC1 has less than 30 players
+2025-03-10 00:21:27 - Checking if BF4 is running
+2025-03-10 00:21:28 -  - Game IS running
+2025-03-10 00:21:28 - Staying put
+2025-03-10 00:23:10 - -- API Data Received
+2025-03-10 00:23:10 - -- API Data Processed
+2025-03-10 00:23:11 - -- Battlelog Data Received
+2025-03-10 00:23:11 - -- Battlelog Data Processed
+2025-03-10 00:23:11 - Finding Server to join
+2025-03-10 00:23:11 - RC1 has less than 30 players
+2025-03-10 00:23:11 - Checking if BF4 is running
+2025-03-10 00:23:12 -  - Game IS running
+2025-03-10 00:23:12 - Staying put
+2025-03-10 00:24:54 - -- API Data Received
+2025-03-10 00:24:54 - -- API Data Processed
+2025-03-10 00:24:55 - -- Battlelog Data Received
+2025-03-10 00:24:55 - -- Battlelog Data Processed
+2025-03-10 00:24:55 - Finding Server to join
+2025-03-10 00:24:55 - RC1 has less than 30 players
+2025-03-10 00:24:55 - Checking if BF4 is running
+2025-03-10 00:24:56 -  - Game IS running
+2025-03-10 00:24:56 - Staying put
+2025-03-10 00:26:38 - -- API Data Received
+2025-03-10 00:26:38 - -- API Data Processed
+2025-03-10 00:26:39 - -- Battlelog Data Received
+2025-03-10 00:26:39 - -- Battlelog Data Processed
+2025-03-10 00:26:39 - Finding Server to join
+2025-03-10 00:26:39 - RC1 has less than 30 players
+2025-03-10 00:26:39 - Checking if BF4 is running
+2025-03-10 00:26:41 -  - Game IS running
+2025-03-10 00:26:41 - Staying put
+2025-03-10 00:28:22 - -- API Data Received
+2025-03-10 00:28:22 - -- API Data Processed
+2025-03-10 00:28:24 - -- Battlelog Data Received
+2025-03-10 00:28:24 - -- Battlelog Data Processed
+2025-03-10 00:28:24 - Finding Server to join
+2025-03-10 00:28:24 - RC1 has less than 30 players
+2025-03-10 00:28:24 - Checking if BF4 is running
+2025-03-10 00:28:25 -  - Game IS running
+2025-03-10 00:28:25 - Staying put
+2025-03-10 00:30:06 - -- API Data Received
+2025-03-10 00:30:06 - -- API Data Processed
+2025-03-10 00:30:08 - -- Battlelog Data Received
+2025-03-10 00:30:08 - -- Battlelog Data Processed
+2025-03-10 00:30:08 - Finding Server to join
+2025-03-10 00:30:08 - RC1 has less than 30 players
+2025-03-10 00:30:08 - Checking if BF4 is running
+2025-03-10 00:30:09 -  - Game IS running
+2025-03-10 00:30:09 - Staying put
+2025-03-10 00:31:50 - -- API Data Received
+2025-03-10 00:31:50 - -- API Data Processed
+2025-03-10 00:31:52 - -- Battlelog Data Received
+2025-03-10 00:31:52 - -- Battlelog Data Processed
+2025-03-10 00:31:52 - Finding Server to join
+2025-03-10 00:31:52 - RC1 has less than 30 players
+2025-03-10 00:31:52 - Checking if BF4 is running
+2025-03-10 00:31:53 -  - Game IS running
+2025-03-10 00:31:53 - Staying put
+2025-03-10 00:33:34 - -- API Data Received
+2025-03-10 00:33:35 - -- API Data Processed
+2025-03-10 00:33:36 - -- Battlelog Data Received
+2025-03-10 00:33:36 - -- Battlelog Data Processed
+2025-03-10 00:33:36 - Finding Server to join
+2025-03-10 00:33:36 - RC1 has less than 30 players
+2025-03-10 00:33:36 - Checking if BF4 is running
+2025-03-10 00:33:37 -  - Game IS running
+2025-03-10 00:33:37 - Staying put
+2025-03-10 00:35:19 - -- API Data Received
+2025-03-10 00:35:19 - -- API Data Processed
+2025-03-10 00:35:20 - -- Battlelog Data Received
+2025-03-10 00:35:20 - -- Battlelog Data Processed
+2025-03-10 00:35:20 - Finding Server to join
+2025-03-10 00:35:20 - RC1 has less than 30 players
+2025-03-10 00:35:20 - Checking if BF4 is running
+2025-03-10 00:35:21 -  - Game IS running
+2025-03-10 00:35:21 - Staying put
+2025-03-10 00:37:03 - -- API Data Received
+2025-03-10 00:37:03 - -- API Data Processed
+2025-03-10 00:37:04 - -- Battlelog Data Received
+2025-03-10 00:37:04 - -- Battlelog Data Processed
+2025-03-10 00:37:04 - Finding Server to join
+2025-03-10 00:37:04 - RC1 has less than 30 players
+2025-03-10 00:37:04 - Checking if BF4 is running
+2025-03-10 00:37:05 -  - Game IS running
+2025-03-10 00:37:05 - Staying put
+2025-03-10 00:38:47 - -- API Data Received
+2025-03-10 00:38:47 - -- API Data Processed
+2025-03-10 00:38:48 - -- Battlelog Data Received
+2025-03-10 00:38:48 - -- Battlelog Data Processed
+2025-03-10 00:38:48 - Finding Server to join
+2025-03-10 00:38:48 - RC1 has less than 30 players
+2025-03-10 00:38:48 - Checking if BF4 is running
+2025-03-10 00:38:49 -  - Game IS running
+2025-03-10 00:38:49 - Staying put
+2025-03-10 00:40:31 - -- API Data Received
+2025-03-10 00:40:31 - -- API Data Processed
+2025-03-10 00:40:33 - -- Battlelog Data Received
+2025-03-10 00:40:33 - -- Battlelog Data Processed
+2025-03-10 00:40:33 - Finding Server to join
+2025-03-10 00:40:33 - RC1 has less than 30 players
+2025-03-10 00:40:33 - Checking if BF4 is running
+2025-03-10 00:40:34 -  - Game IS running
+2025-03-10 00:40:34 - Staying put
+2025-03-10 00:42:15 - -- API Data Received
+2025-03-10 00:42:15 - -- API Data Processed
+2025-03-10 00:42:17 - -- Battlelog Data Received
+2025-03-10 00:42:17 - -- Battlelog Data Processed
+2025-03-10 00:42:17 - Finding Server to join
+2025-03-10 00:42:17 - RC1 has less than 30 players
+2025-03-10 00:42:17 - Checking if BF4 is running
+2025-03-10 00:42:18 -  - Game IS running
+2025-03-10 00:42:18 - Staying put
+2025-03-10 00:43:59 - -- API Data Received
+2025-03-10 00:43:59 - -- API Data Processed
+2025-03-10 00:44:00 - -- Battlelog Data Received
+2025-03-10 00:44:00 - -- Battlelog Data Processed
+2025-03-10 00:44:00 - Finding Server to join
+2025-03-10 00:44:00 - RC1 has less than 30 players
+2025-03-10 00:44:00 - Checking if BF4 is running
+2025-03-10 00:44:02 -  - Game IS running
+2025-03-10 00:44:02 - Staying put
+2025-03-10 00:45:43 - -- API Data Received
+2025-03-10 00:45:43 - -- API Data Processed
+2025-03-10 00:45:45 - -- Battlelog Data Received
+2025-03-10 00:45:45 - -- Battlelog Data Processed
+2025-03-10 00:45:45 - Finding Server to join
+2025-03-10 00:45:45 - RC1 has less than 30 players
+2025-03-10 00:45:45 - Checking if BF4 is running
+2025-03-10 00:45:46 -  - Game IS running
+2025-03-10 00:45:46 - Staying put
+2025-03-10 00:47:27 - -- API Data Received
+2025-03-10 00:47:27 - -- API Data Processed
+2025-03-10 00:47:29 - -- Battlelog Data Received
+2025-03-10 00:47:29 - -- Battlelog Data Processed
+2025-03-10 00:47:29 - Finding Server to join
+2025-03-10 00:47:29 - RC1 has less than 30 players
+2025-03-10 00:47:29 - Checking if BF4 is running
+2025-03-10 00:47:30 -  - Game IS running
+2025-03-10 00:47:30 - Staying put
+2025-03-10 00:49:12 - -- API Data Received
+2025-03-10 00:49:12 - -- API Data Processed
+2025-03-10 00:49:13 - -- Battlelog Data Received
+2025-03-10 00:49:13 - -- Battlelog Data Processed
+2025-03-10 00:49:13 - Finding Server to join
+2025-03-10 00:49:13 - RC1 has less than 30 players
+2025-03-10 00:49:13 - Checking if BF4 is running
+2025-03-10 00:49:14 -  - Game IS running
+2025-03-10 00:49:14 - Staying put
+2025-03-10 00:50:56 - -- API Data Received
+2025-03-10 00:50:56 - -- API Data Processed
+2025-03-10 00:50:57 - -- Battlelog Data Received
+2025-03-10 00:50:57 - -- Battlelog Data Processed
+2025-03-10 00:50:57 - Finding Server to join
+2025-03-10 00:50:57 - RC1 has less than 30 players
+2025-03-10 00:50:57 - Checking if BF4 is running
+2025-03-10 00:50:58 -  - Game IS running
+2025-03-10 00:50:58 - Staying put
+2025-03-10 00:52:40 - -- API Data Received
+2025-03-10 00:52:40 - -- API Data Processed
+2025-03-10 00:52:41 - -- Battlelog Data Received
+2025-03-10 00:52:41 - -- Battlelog Data Processed
+2025-03-10 00:52:41 - Finding Server to join
+2025-03-10 00:52:41 - RC1 has less than 30 players
+2025-03-10 00:52:41 - Checking if BF4 is running
+2025-03-10 00:52:43 -  - Game IS running
+2025-03-10 00:52:43 - Staying put
+2025-03-10 00:54:24 - -- API Data Received
+2025-03-10 00:54:24 - -- API Data Processed
+2025-03-10 00:54:26 - -- Battlelog Data Received
+2025-03-10 00:54:26 - -- Battlelog Data Processed
+2025-03-10 00:54:26 - Finding Server to join
+2025-03-10 00:54:26 - RC1 has less than 30 players
+2025-03-10 00:54:26 - Checking if BF4 is running
+2025-03-10 00:54:27 -  - Game IS running
+2025-03-10 00:54:27 - Staying put
+2025-03-10 00:56:08 - -- API Data Received
+2025-03-10 00:56:08 - -- API Data Processed
+2025-03-10 00:56:10 - -- Battlelog Data Received
+2025-03-10 00:56:10 - -- Battlelog Data Processed
+2025-03-10 00:56:10 - Finding Server to join
+2025-03-10 00:56:10 - RC1 has less than 30 players
+2025-03-10 00:56:10 - Checking if BF4 is running
+2025-03-10 00:56:11 -  - Game IS running
+2025-03-10 00:56:11 - Staying put
+2025-03-10 00:57:52 - -- API Data Received
+2025-03-10 00:57:52 - -- API Data Processed
+2025-03-10 00:57:54 - -- Battlelog Data Received
+2025-03-10 00:57:54 - -- Battlelog Data Processed
+2025-03-10 00:57:54 - Finding Server to join
+2025-03-10 00:57:54 - RC1 has less than 30 players
+2025-03-10 00:57:54 - Checking if BF4 is running
+2025-03-10 00:57:55 -  - Game IS running
+2025-03-10 00:57:55 - Staying put
+2025-03-10 00:59:36 - -- API Data Received
+2025-03-10 00:59:36 - -- API Data Processed
+2025-03-10 00:59:38 - -- Battlelog Data Received
+2025-03-10 00:59:38 - -- Battlelog Data Processed
+2025-03-10 00:59:38 - Finding Server to join
+2025-03-10 00:59:38 - RC1 has less than 30 players
+2025-03-10 00:59:38 - Checking if BF4 is running
+2025-03-10 00:59:39 -  - Game IS running
+2025-03-10 00:59:39 - Staying put
+2025-03-10 01:01:20 - -- API Data Received
+2025-03-10 01:01:20 - -- API Data Processed
+2025-03-10 01:01:22 - -- Battlelog Data Received
+2025-03-10 01:01:22 - -- Battlelog Data Processed
+2025-03-10 01:01:22 - Finding Server to join
+2025-03-10 01:01:22 - RC1 has less than 30 players
+2025-03-10 01:01:22 - Checking if BF4 is running
+2025-03-10 01:01:23 -  - Game IS running
+2025-03-10 01:01:23 - Staying put
+2025-03-10 01:03:05 - -- API Data Received
+2025-03-10 01:03:05 - -- API Data Processed
+2025-03-10 01:03:06 - -- Battlelog Data Received
+2025-03-10 01:03:06 - -- Battlelog Data Processed
+2025-03-10 01:03:06 - Finding Server to join
+2025-03-10 01:03:06 - RC1 has less than 30 players
+2025-03-10 01:03:06 - Checking if BF4 is running
+2025-03-10 01:03:07 -  - Game IS running
+2025-03-10 01:03:07 - Staying put
+2025-03-10 01:04:49 - -- API Data Received
+2025-03-10 01:04:49 - -- API Data Processed
+2025-03-10 01:04:50 - -- Battlelog Data Received
+2025-03-10 01:04:50 - -- Battlelog Data Processed
+2025-03-10 01:04:50 - Finding Server to join
+2025-03-10 01:04:50 - RC1 has less than 30 players
+2025-03-10 01:04:50 - Checking if BF4 is running
+2025-03-10 01:04:51 -  - Game IS running
+2025-03-10 01:04:51 - Staying put
+2025-03-10 01:06:33 - -- API Data Received
+2025-03-10 01:06:33 - -- API Data Processed
+2025-03-10 01:06:34 - -- Battlelog Data Received
+2025-03-10 01:06:34 - -- Battlelog Data Processed
+2025-03-10 01:06:34 - Finding Server to join
+2025-03-10 01:06:34 - RC1 has less than 30 players
+2025-03-10 01:06:34 - Checking if BF4 is running
+2025-03-10 01:06:35 -  - Game IS running
+2025-03-10 01:06:35 - Staying put
+2025-03-10 01:08:17 - -- API Data Received
+2025-03-10 01:08:17 - -- API Data Processed
+2025-03-10 01:08:18 - -- Battlelog Data Received
+2025-03-10 01:08:18 - -- Battlelog Data Processed
+2025-03-10 01:08:18 - Finding Server to join
+2025-03-10 01:08:18 - RC1 has less than 30 players
+2025-03-10 01:08:18 - Checking if BF4 is running
+2025-03-10 01:08:19 -  - Game IS running
+2025-03-10 01:08:19 - Staying put
+2025-03-10 01:10:01 - -- API Data Received
+2025-03-10 01:10:01 - -- API Data Processed
+2025-03-10 01:10:02 - -- Battlelog Data Received
+2025-03-10 01:10:02 - -- Battlelog Data Processed
+2025-03-10 01:10:02 - Finding Server to join
+2025-03-10 01:10:02 - RC1 has less than 30 players
+2025-03-10 01:10:02 - Checking if BF4 is running
+2025-03-10 01:10:03 -  - Game IS running
+2025-03-10 01:10:03 - Staying put
+2025-03-10 01:11:45 - -- API Data Received
+2025-03-10 01:11:45 - -- API Data Processed
+2025-03-10 01:11:47 - -- Battlelog Data Received
+2025-03-10 01:11:47 - -- Battlelog Data Processed
+2025-03-10 01:11:47 - Finding Server to join
+2025-03-10 01:11:47 - RC1 has less than 30 players
+2025-03-10 01:11:47 - Checking if BF4 is running
+2025-03-10 01:11:48 -  - Game IS running
+2025-03-10 01:11:48 - Staying put
+2025-03-10 01:13:29 - -- API Data Received
+2025-03-10 01:13:29 - -- API Data Processed
+2025-03-10 01:13:31 - -- Battlelog Data Received
+2025-03-10 01:13:31 - -- Battlelog Data Processed
+2025-03-10 01:13:31 - Finding Server to join
+2025-03-10 01:13:31 - RC1 has less than 30 players
+2025-03-10 01:13:31 - Checking if BF4 is running
+2025-03-10 01:13:32 -  - Game IS running
+2025-03-10 01:13:32 - Staying put
+2025-03-10 01:15:13 - -- API Data Received
+2025-03-10 01:15:13 - -- API Data Processed
+2025-03-10 01:15:15 - -- Battlelog Data Received
+2025-03-10 01:15:15 - -- Battlelog Data Processed
+2025-03-10 01:15:15 - Finding Server to join
+2025-03-10 01:15:15 - RC1 has less than 30 players
+2025-03-10 01:15:15 - Checking if BF4 is running
+2025-03-10 01:15:15 -  - Game IS running
+2025-03-10 01:15:15 - Staying put
+2025-03-10 01:16:56 - -- API Data Received
+2025-03-10 01:16:56 - -- API Data Processed
+2025-03-10 01:16:58 - -- Battlelog Data Received
+2025-03-10 01:16:58 - -- Battlelog Data Processed
+2025-03-10 01:16:58 - Finding Server to join
+2025-03-10 01:16:58 - RC1 has less than 30 players
+2025-03-10 01:16:58 - Checking if BF4 is running
+2025-03-10 01:16:58 -  - Game IS running
+2025-03-10 01:16:58 - Staying put
+2025-03-10 01:18:39 - -- API Data Received
+2025-03-10 01:18:39 - -- API Data Processed
+2025-03-10 01:18:41 - -- Battlelog Data Received
+2025-03-10 01:18:41 - -- Battlelog Data Processed
+2025-03-10 01:18:41 - Finding Server to join
+2025-03-10 01:18:41 - RC1 has less than 30 players
+2025-03-10 01:18:41 - Checking if BF4 is running
+2025-03-10 01:18:42 -  - Game IS running
+2025-03-10 01:18:42 - Staying put
+2025-03-10 01:20:23 - -- API Data Received
+2025-03-10 01:20:23 - -- API Data Processed
+2025-03-10 01:20:25 - -- Battlelog Data Received
+2025-03-10 01:20:25 - -- Battlelog Data Processed
+2025-03-10 01:20:25 - Finding Server to join
+2025-03-10 01:20:25 - RC1 has less than 30 players
+2025-03-10 01:20:25 - Checking if BF4 is running
+2025-03-10 01:20:26 -  - Game IS running
+2025-03-10 01:20:26 - Staying put
+2025-03-10 01:22:08 - -- API Data Received
+2025-03-10 01:22:08 - -- API Data Processed
+2025-03-10 01:22:09 - -- Battlelog Data Received
+2025-03-10 01:22:09 - -- Battlelog Data Processed
+2025-03-10 01:22:09 - Finding Server to join
+2025-03-10 01:22:09 - RC1 has less than 30 players
+2025-03-10 01:22:09 - Checking if BF4 is running
+2025-03-10 01:22:10 -  - Game IS running
+2025-03-10 01:22:10 - Staying put
+2025-03-10 01:23:52 - -- API Data Received
+2025-03-10 01:23:52 - -- API Data Processed
+2025-03-10 01:23:53 - -- Battlelog Data Received
+2025-03-10 01:23:53 - -- Battlelog Data Processed
+2025-03-10 01:23:53 - Finding Server to join
+2025-03-10 01:23:53 - RC1 has less than 30 players
+2025-03-10 01:23:53 - Checking if BF4 is running
+2025-03-10 01:23:54 -  - Game IS running
+2025-03-10 01:23:54 - Staying put
+2025-03-10 01:25:36 - -- API Data Received
+2025-03-10 01:25:36 - -- API Data Processed
+2025-03-10 01:25:37 - -- Battlelog Data Received
+2025-03-10 01:25:37 - -- Battlelog Data Processed
+2025-03-10 01:25:37 - Finding Server to join
+2025-03-10 01:25:37 - RC1 has less than 30 players
+2025-03-10 01:25:37 - Checking if BF4 is running
+2025-03-10 01:25:38 -  - Game IS running
+2025-03-10 01:25:38 - Staying put
+2025-03-10 01:27:20 - -- API Data Received
+2025-03-10 01:27:20 - -- API Data Processed
+2025-03-10 01:27:21 - -- Battlelog Data Received
+2025-03-10 01:27:21 - -- Battlelog Data Processed
+2025-03-10 01:27:21 - Finding Server to join
+2025-03-10 01:27:21 - RC1 has less than 30 players
+2025-03-10 01:27:21 - Checking if BF4 is running
+2025-03-10 01:27:22 -  - Game IS running
+2025-03-10 01:27:22 - Staying put
+2025-03-10 01:29:04 - -- API Data Received
+2025-03-10 01:29:04 - -- API Data Processed
+2025-03-10 01:29:05 - -- Battlelog Data Received
+2025-03-10 01:29:05 - -- Battlelog Data Processed
+2025-03-10 01:29:05 - Finding Server to join
+2025-03-10 01:29:05 - RC1 has less than 30 players
+2025-03-10 01:29:05 - Checking if BF4 is running
+2025-03-10 01:29:06 -  - Game IS running
+2025-03-10 01:29:06 - Staying put
+2025-03-10 01:30:48 - -- API Data Received
+2025-03-10 01:30:48 - -- API Data Processed
+2025-03-10 01:30:49 - -- Battlelog Data Received
+2025-03-10 01:30:49 - -- Battlelog Data Processed
+2025-03-10 01:30:49 - Finding Server to join
+2025-03-10 01:30:49 - RC1 has less than 30 players
+2025-03-10 01:30:49 - Checking if BF4 is running
+2025-03-10 01:30:50 -  - Game IS running
+2025-03-10 01:30:50 - Staying put
+2025-03-10 01:32:32 - -- API Data Received
+2025-03-10 01:32:32 - -- API Data Processed
+2025-03-10 01:32:33 - -- Battlelog Data Received
+2025-03-10 01:32:33 - -- Battlelog Data Processed
+2025-03-10 01:32:33 - Finding Server to join
+2025-03-10 01:32:33 - RC1 has less than 30 players
+2025-03-10 01:32:33 - Checking if BF4 is running
+2025-03-10 01:32:35 -  - Game IS running
+2025-03-10 01:32:35 - Staying put
+2025-03-10 01:34:16 - -- API Data Received
+2025-03-10 01:34:16 - -- API Data Processed
+2025-03-10 01:34:18 - -- Battlelog Data Received
+2025-03-10 01:34:18 - -- Battlelog Data Processed
+2025-03-10 01:34:18 - Finding Server to join
+2025-03-10 01:34:18 - RC1 has less than 30 players
+2025-03-10 01:34:18 - Checking if BF4 is running
+2025-03-10 01:34:19 -  - Game IS running
+2025-03-10 01:34:19 - Staying put
+2025-03-10 01:36:00 - -- API Data Received
+2025-03-10 01:36:00 - -- API Data Processed
+2025-03-10 01:36:02 - -- Battlelog Data Received
+2025-03-10 01:36:02 - -- Battlelog Data Processed
+2025-03-10 01:36:02 - Finding Server to join
+2025-03-10 01:36:02 - RC1 has less than 30 players
+2025-03-10 01:36:02 - Checking if BF4 is running
+2025-03-10 01:36:03 -  - Game IS running
+2025-03-10 01:36:03 - Staying put
+2025-03-10 01:37:44 - -- API Data Received
+2025-03-10 01:37:44 - -- API Data Processed
+2025-03-10 01:37:46 - -- Battlelog Data Received
+2025-03-10 01:37:46 - -- Battlelog Data Processed
+2025-03-10 01:37:46 - Finding Server to join
+2025-03-10 01:37:46 - RC1 has less than 30 players
+2025-03-10 01:37:46 - Checking if BF4 is running
+2025-03-10 01:37:47 -  - Game IS running
+2025-03-10 01:37:47 - Staying put
+2025-03-10 01:39:28 - -- API Data Received
+2025-03-10 01:39:28 - -- API Data Processed
+2025-03-10 01:39:30 - -- Battlelog Data Received
+2025-03-10 01:39:30 - -- Battlelog Data Processed
+2025-03-10 01:39:30 - Finding Server to join
+2025-03-10 01:39:30 - RC1 has less than 30 players
+2025-03-10 01:39:30 - Checking if BF4 is running
+2025-03-10 01:39:31 -  - Game IS running
+2025-03-10 01:39:31 - Staying put
+2025-03-10 01:41:13 - -- API Data Received
+2025-03-10 01:41:13 - -- API Data Processed
+2025-03-10 01:41:14 - -- Battlelog Data Received
+2025-03-10 01:41:14 - -- Battlelog Data Processed
+2025-03-10 01:41:14 - Finding Server to join
+2025-03-10 01:41:14 - RC1 has less than 30 players
+2025-03-10 01:41:14 - Checking if BF4 is running
+2025-03-10 01:41:15 -  - Game IS running
+2025-03-10 01:41:15 - Staying put
+2025-03-10 01:42:56 - -- API Data Received
+2025-03-10 01:42:56 - -- API Data Processed
+2025-03-10 01:42:58 - -- Battlelog Data Received
+2025-03-10 01:42:58 - -- Battlelog Data Processed
+2025-03-10 01:42:58 - Finding Server to join
+2025-03-10 01:42:58 - RC1 has less than 30 players
+2025-03-10 01:42:58 - Checking if BF4 is running
+2025-03-10 01:42:59 -  - Game IS running
+2025-03-10 01:42:59 - Staying put
+2025-03-10 01:44:40 - -- API Data Received
+2025-03-10 01:44:40 - -- API Data Processed
+2025-03-10 01:44:42 - -- Battlelog Data Received
+2025-03-10 01:44:42 - -- Battlelog Data Processed
+2025-03-10 01:44:42 - Finding Server to join
+2025-03-10 01:44:42 - RC1 has less than 30 players
+2025-03-10 01:44:42 - Checking if BF4 is running
+2025-03-10 01:44:43 -  - Game IS running
+2025-03-10 01:44:43 - Staying put
+2025-03-10 01:46:25 - -- API Data Received
+2025-03-10 01:46:25 - -- API Data Processed
+2025-03-10 01:46:26 - -- Battlelog Data Received
+2025-03-10 01:46:26 - -- Battlelog Data Processed
+2025-03-10 01:46:26 - Finding Server to join
+2025-03-10 01:46:26 - RC1 has less than 30 players
+2025-03-10 01:46:26 - Checking if BF4 is running
+2025-03-10 01:46:27 -  - Game IS running
+2025-03-10 01:46:27 - Staying put
+2025-03-10 01:48:09 - -- API Data Received
+2025-03-10 01:48:09 - -- API Data Processed
+2025-03-10 01:48:10 - -- Battlelog Data Received
+2025-03-10 01:48:10 - -- Battlelog Data Processed
+2025-03-10 01:48:10 - Finding Server to join
+2025-03-10 01:48:10 - RC1 has less than 30 players
+2025-03-10 01:48:10 - Checking if BF4 is running
+2025-03-10 01:48:11 -  - Game IS running
+2025-03-10 01:48:11 - Staying put
+2025-03-10 01:49:53 - -- API Data Received
+2025-03-10 01:49:53 - -- API Data Processed
+2025-03-10 01:49:54 - -- Battlelog Data Received
+2025-03-10 01:49:54 - -- Battlelog Data Processed
+2025-03-10 01:49:54 - Finding Server to join
+2025-03-10 01:49:54 - RC1 has less than 30 players
+2025-03-10 01:49:54 - Checking if BF4 is running
+2025-03-10 01:49:55 -  - Game IS running
+2025-03-10 01:49:55 - Staying put
+2025-03-10 01:51:37 - -- API Data Received
+2025-03-10 01:51:37 - -- API Data Processed
+2025-03-10 01:51:38 - -- Battlelog Data Received
+2025-03-10 01:51:38 - -- Battlelog Data Processed
+2025-03-10 01:51:38 - Finding Server to join
+2025-03-10 01:51:38 - RC1 has less than 30 players
+2025-03-10 01:51:38 - Checking if BF4 is running
+2025-03-10 01:51:39 -  - Game IS running
+2025-03-10 01:51:39 - Staying put
+2025-03-10 01:53:21 - -- API Data Received
+2025-03-10 01:53:21 - -- API Data Processed
+2025-03-10 01:53:22 - -- Battlelog Data Received
+2025-03-10 01:53:22 - -- Battlelog Data Processed
+2025-03-10 01:53:22 - Finding Server to join
+2025-03-10 01:53:22 - RC1 has less than 30 players
+2025-03-10 01:53:22 - Checking if BF4 is running
+2025-03-10 01:53:22 -  - Game IS running
+2025-03-10 01:53:22 - Staying put
+2025-03-10 01:55:04 - -- API Data Received
+2025-03-10 01:55:04 - -- API Data Processed
+2025-03-10 01:55:05 - -- Battlelog Data Received
+2025-03-10 01:55:05 - -- Battlelog Data Processed
+2025-03-10 01:55:05 - Finding Server to join
+2025-03-10 01:55:05 - RC1 has less than 30 players
+2025-03-10 01:55:05 - Checking if BF4 is running
+2025-03-10 01:55:05 -  - Game IS running
+2025-03-10 01:55:05 - Staying put
+2025-03-10 01:56:47 - -- API Data Received
+2025-03-10 01:56:47 - -- API Data Processed
+2025-03-10 01:56:48 - -- Battlelog Data Received
+2025-03-10 01:56:48 - -- Battlelog Data Processed
+2025-03-10 01:56:48 - Finding Server to join
+2025-03-10 01:56:48 - RC1 has less than 30 players
+2025-03-10 01:56:48 - Checking if BF4 is running
+2025-03-10 01:56:49 -  - Game IS running
+2025-03-10 01:56:49 - Staying put
+2025-03-10 01:58:31 - -- API Data Received
+2025-03-10 01:58:31 - -- API Data Processed
+2025-03-10 01:58:32 - -- Battlelog Data Received
+2025-03-10 01:58:32 - -- Battlelog Data Processed
+2025-03-10 01:58:32 - Finding Server to join
+2025-03-10 01:58:32 - RC1 has less than 30 players
+2025-03-10 01:58:32 - Checking if BF4 is running
+2025-03-10 01:58:33 -  - Game IS running
+2025-03-10 01:58:33 - Staying put
+2025-03-10 02:00:15 - -- API Data Received
+2025-03-10 02:00:15 - -- API Data Processed
+2025-03-10 02:00:16 - -- Battlelog Data Received
+2025-03-10 02:00:16 - -- Battlelog Data Processed
+2025-03-10 02:00:16 - Finding Server to join
+2025-03-10 02:00:16 - RC1 has less than 30 players
+2025-03-10 02:00:16 - Checking if BF4 is running
+2025-03-10 02:00:17 -  - Game IS running
+2025-03-10 02:00:17 - Staying put
+2025-03-10 02:01:59 - -- API Data Received
+2025-03-10 02:01:59 - -- API Data Processed
+2025-03-10 02:02:01 - -- Battlelog Data Received
+2025-03-10 02:02:01 - -- Battlelog Data Processed
+2025-03-10 02:02:01 - Finding Server to join
+2025-03-10 02:02:01 - RC1 has less than 30 players
+2025-03-10 02:02:01 - Checking if BF4 is running
+2025-03-10 02:02:02 -  - Game IS running
+2025-03-10 02:02:02 - Staying put
+2025-03-10 02:03:43 - -- API Data Received
+2025-03-10 02:03:43 - -- API Data Processed
+2025-03-10 02:03:45 - -- Battlelog Data Received
+2025-03-10 02:03:45 - -- Battlelog Data Processed
+2025-03-10 02:03:45 - Finding Server to join
+2025-03-10 02:03:45 - RC1 has less than 30 players
+2025-03-10 02:03:45 - Checking if BF4 is running
+2025-03-10 02:03:46 -  - Game IS running
+2025-03-10 02:03:46 - Staying put
+2025-03-10 02:05:27 - -- API Data Received
+2025-03-10 02:05:27 - -- API Data Processed
+2025-03-10 02:05:29 - -- Battlelog Data Received
+2025-03-10 02:05:29 - -- Battlelog Data Processed
+2025-03-10 02:05:29 - Finding Server to join
+2025-03-10 02:05:29 - RC1 has less than 30 players
+2025-03-10 02:05:29 - Checking if BF4 is running
+2025-03-10 02:05:30 -  - Game IS running
+2025-03-10 02:05:30 - Staying put
+2025-03-10 02:07:11 - -- API Data Received
+2025-03-10 02:07:11 - -- API Data Processed
+2025-03-10 02:07:13 - -- Battlelog Data Received
+2025-03-10 02:07:13 - -- Battlelog Data Processed
+2025-03-10 02:07:13 - Finding Server to join
+2025-03-10 02:07:13 - RC1 has less than 30 players
+2025-03-10 02:07:13 - Checking if BF4 is running
+2025-03-10 02:07:14 -  - Game IS running
+2025-03-10 02:07:14 - Staying put
+2025-03-10 02:08:55 - -- API Data Received
+2025-03-10 02:08:56 - -- API Data Processed
+2025-03-10 02:08:57 - -- Battlelog Data Received
+2025-03-10 02:08:57 - -- Battlelog Data Processed
+2025-03-10 02:08:57 - Finding Server to join
+2025-03-10 02:08:57 - RC1 has less than 30 players
+2025-03-10 02:08:57 - Checking if BF4 is running
+2025-03-10 02:08:58 -  - Game IS running
+2025-03-10 02:08:58 - Staying put
+2025-03-10 02:10:40 - -- API Data Received
+2025-03-10 02:10:40 - -- API Data Processed
+2025-03-10 02:10:41 - -- Battlelog Data Received
+2025-03-10 02:10:41 - -- Battlelog Data Processed
+2025-03-10 02:10:41 - Finding Server to join
+2025-03-10 02:10:41 - RC1 has less than 30 players
+2025-03-10 02:10:41 - Checking if BF4 is running
+2025-03-10 02:10:42 -  - Game IS running
+2025-03-10 02:10:42 - Staying put
+2025-03-10 02:12:24 - -- API Data Received
+2025-03-10 02:12:24 - -- API Data Processed
+2025-03-10 02:12:25 - -- Battlelog Data Received
+2025-03-10 02:12:25 - -- Battlelog Data Processed
+2025-03-10 02:12:25 - Finding Server to join
+2025-03-10 02:12:25 - RC1 has less than 30 players
+2025-03-10 02:12:25 - Checking if BF4 is running
+2025-03-10 02:12:26 -  - Game IS running
+2025-03-10 02:12:26 - Staying put
+2025-03-10 02:14:08 - -- API Data Received
+2025-03-10 02:14:08 - -- API Data Processed
+2025-03-10 02:14:09 - -- Battlelog Data Received
+2025-03-10 02:14:09 - -- Battlelog Data Processed
+2025-03-10 02:14:09 - Finding Server to join
+2025-03-10 02:14:09 - RC1 has less than 30 players
+2025-03-10 02:14:09 - Checking if BF4 is running
+2025-03-10 02:14:11 -  - Game IS running
+2025-03-10 02:14:11 - Staying put
+2025-03-10 02:15:52 - -- API Data Received
+2025-03-10 02:15:52 - -- API Data Processed
+2025-03-10 02:15:54 - -- Battlelog Data Received
+2025-03-10 02:15:54 - -- Battlelog Data Processed
+2025-03-10 02:15:54 - Finding Server to join
+2025-03-10 02:15:54 - RC1 has less than 30 players
+2025-03-10 02:15:54 - Checking if BF4 is running
+2025-03-10 02:15:55 -  - Game IS running
+2025-03-10 02:15:55 - Staying put
+2025-03-10 02:17:36 - -- API Data Received
+2025-03-10 02:17:36 - -- API Data Processed
+2025-03-10 02:17:38 - -- Battlelog Data Received
+2025-03-10 02:17:38 - -- Battlelog Data Processed
+2025-03-10 02:17:38 - Finding Server to join
+2025-03-10 02:17:38 - RC1 has less than 30 players
+2025-03-10 02:17:38 - Checking if BF4 is running
+2025-03-10 02:17:39 -  - Game IS running
+2025-03-10 02:17:39 - Staying put
+2025-03-10 02:19:20 - -- API Data Received
+2025-03-10 02:19:20 - -- API Data Processed
+2025-03-10 02:19:22 - -- Battlelog Data Received
+2025-03-10 02:19:22 - -- Battlelog Data Processed
+2025-03-10 02:19:22 - Finding Server to join
+2025-03-10 02:19:22 - RC1 has less than 30 players
+2025-03-10 02:19:22 - Checking if BF4 is running
+2025-03-10 02:19:23 -  - Game IS running
+2025-03-10 02:19:23 - Staying put
+2025-03-10 02:21:04 - -- API Data Received
+2025-03-10 02:21:04 - -- API Data Processed
+2025-03-10 02:21:06 - -- Battlelog Data Received
+2025-03-10 02:21:06 - -- Battlelog Data Processed
+2025-03-10 02:21:06 - Finding Server to join
+2025-03-10 02:21:06 - RC1 has less than 30 players
+2025-03-10 02:21:06 - Checking if BF4 is running
+2025-03-10 02:21:07 -  - Game IS running
+2025-03-10 02:21:07 - Staying put
+2025-03-10 02:22:48 - -- API Data Received
+2025-03-10 02:22:48 - -- API Data Processed
+2025-03-10 02:22:50 - -- Battlelog Data Received
+2025-03-10 02:22:50 - -- Battlelog Data Processed
+2025-03-10 02:22:50 - Finding Server to join
+2025-03-10 02:22:50 - RC1 has less than 30 players
+2025-03-10 02:22:50 - Checking if BF4 is running
+2025-03-10 02:22:51 -  - Game IS running
+2025-03-10 02:22:51 - Staying put
+2025-03-10 02:24:33 - -- API Data Received
+2025-03-10 02:24:33 - -- API Data Processed
+2025-03-10 02:24:34 - -- Battlelog Data Received
+2025-03-10 02:24:34 - -- Battlelog Data Processed
+2025-03-10 02:24:34 - Finding Server to join
+2025-03-10 02:24:34 - RC1 has less than 30 players
+2025-03-10 02:24:34 - Checking if BF4 is running
+2025-03-10 02:24:35 -  - Game IS running
+2025-03-10 02:24:35 - Staying put
+2025-03-10 02:26:17 - -- API Data Received
+2025-03-10 02:26:17 - -- API Data Processed
+2025-03-10 02:26:18 - -- Battlelog Data Received
+2025-03-10 02:26:18 - -- Battlelog Data Processed
+2025-03-10 02:26:18 - Finding Server to join
+2025-03-10 02:26:18 - RC1 has less than 30 players
+2025-03-10 02:26:18 - Checking if BF4 is running
+2025-03-10 02:26:20 -  - Game IS running
+2025-03-10 02:26:20 - Staying put
+2025-03-10 02:28:01 - -- API Data Received
+2025-03-10 02:28:01 - -- API Data Processed
+2025-03-10 02:28:02 - -- Battlelog Data Received
+2025-03-10 02:28:02 - -- Battlelog Data Processed
+2025-03-10 02:28:02 - Finding Server to join
+2025-03-10 02:28:02 - RC1 has less than 30 players
+2025-03-10 02:28:02 - Checking if BF4 is running
+2025-03-10 02:28:03 -  - Game IS running
+2025-03-10 02:28:03 - Staying put
+2025-03-10 02:29:45 - -- API Data Received
+2025-03-10 02:29:45 - -- API Data Processed
+2025-03-10 02:29:47 - -- Battlelog Data Received
+2025-03-10 02:29:47 - -- Battlelog Data Processed
+2025-03-10 02:29:47 - Finding Server to join
+2025-03-10 02:29:47 - RC1 has less than 30 players
+2025-03-10 02:29:47 - Checking if BF4 is running
+2025-03-10 02:29:48 -  - Game IS running
+2025-03-10 02:29:48 - Staying put
+2025-03-10 02:31:29 - -- API Data Received
+2025-03-10 02:31:29 - -- API Data Processed
+2025-03-10 02:31:31 - -- Battlelog Data Received
+2025-03-10 02:31:31 - -- Battlelog Data Processed
+2025-03-10 02:31:31 - Finding Server to join
+2025-03-10 02:31:31 - RC1 has less than 30 players
+2025-03-10 02:31:31 - Checking if BF4 is running
+2025-03-10 02:31:32 -  - Game IS running
+2025-03-10 02:31:32 - Staying put
+2025-03-10 02:33:13 - -- API Data Received
+2025-03-10 02:33:13 - -- API Data Processed
+2025-03-10 02:33:15 - -- Battlelog Data Received
+2025-03-10 02:33:15 - -- Battlelog Data Processed
+2025-03-10 02:33:15 - Finding Server to join
+2025-03-10 02:33:15 - RC1 has less than 30 players
+2025-03-10 02:33:15 - Checking if BF4 is running
+2025-03-10 02:33:16 -  - Game IS running
+2025-03-10 02:33:16 - Staying put
+2025-03-10 02:34:57 - -- API Data Received
+2025-03-10 02:34:57 - -- API Data Processed
+2025-03-10 02:34:59 - -- Battlelog Data Received
+2025-03-10 02:34:59 - -- Battlelog Data Processed
+2025-03-10 02:34:59 - Finding Server to join
+2025-03-10 02:34:59 - RC1 has less than 30 players
+2025-03-10 02:34:59 - Checking if BF4 is running
+2025-03-10 02:35:00 -  - Game IS running
+2025-03-10 02:35:00 - Staying put
+2025-03-10 02:36:41 - -- API Data Received
+2025-03-10 02:36:41 - -- API Data Processed
+2025-03-10 02:36:43 - -- Battlelog Data Received
+2025-03-10 02:36:43 - -- Battlelog Data Processed
+2025-03-10 02:36:43 - Finding Server to join
+2025-03-10 02:36:43 - RC1 has less than 30 players
+2025-03-10 02:36:43 - Checking if BF4 is running
+2025-03-10 02:36:44 -  - Game IS running
+2025-03-10 02:36:44 - Staying put
+2025-03-10 02:38:25 - -- API Data Received
+2025-03-10 02:38:25 - -- API Data Processed
+2025-03-10 02:38:27 - -- Battlelog Data Received
+2025-03-10 02:38:27 - -- Battlelog Data Processed
+2025-03-10 02:38:27 - Finding Server to join
+2025-03-10 02:38:27 - RC1 has less than 30 players
+2025-03-10 02:38:27 - Checking if BF4 is running
+2025-03-10 02:38:28 -  - Game IS running
+2025-03-10 02:38:28 - Staying put
+2025-03-10 02:40:10 - -- API Data Received
+2025-03-10 02:40:10 - -- API Data Processed
+2025-03-10 02:40:11 - -- Battlelog Data Received
+2025-03-10 02:40:11 - -- Battlelog Data Processed
+2025-03-10 02:40:11 - Finding Server to join
+2025-03-10 02:40:11 - RC1 has less than 30 players
+2025-03-10 02:40:11 - Checking if BF4 is running
+2025-03-10 02:40:12 -  - Game IS running
+2025-03-10 02:40:12 - Staying put
+2025-03-10 02:41:54 - -- API Data Received
+2025-03-10 02:41:54 - -- API Data Processed
+2025-03-10 02:41:55 - -- Battlelog Data Received
+2025-03-10 02:41:55 - -- Battlelog Data Processed
+2025-03-10 02:41:55 - Finding Server to join
+2025-03-10 02:41:55 - RC1 has less than 30 players
+2025-03-10 02:41:55 - Checking if BF4 is running
+2025-03-10 02:41:56 -  - Game IS running
+2025-03-10 02:41:56 - Staying put
+2025-03-10 02:43:38 - -- API Data Received
+2025-03-10 02:43:38 - -- API Data Processed
+2025-03-10 02:43:39 - -- Battlelog Data Received
+2025-03-10 02:43:39 - -- Battlelog Data Processed
+2025-03-10 02:43:39 - Finding Server to join
+2025-03-10 02:43:39 - RC1 has less than 30 players
+2025-03-10 02:43:39 - Checking if BF4 is running
+2025-03-10 02:43:40 -  - Game IS running
+2025-03-10 02:43:40 - Staying put
+2025-03-10 02:45:22 - -- API Data Received
+2025-03-10 02:45:22 - -- API Data Processed
+2025-03-10 02:45:23 - -- Battlelog Data Received
+2025-03-10 02:45:23 - -- Battlelog Data Processed
+2025-03-10 02:45:23 - Finding Server to join
+2025-03-10 02:45:23 - RC1 has less than 30 players
+2025-03-10 02:45:23 - Checking if BF4 is running
+2025-03-10 02:45:23 -  - Game IS running
+2025-03-10 02:45:23 - Staying put
+2025-03-10 02:47:05 - -- API Data Received
+2025-03-10 02:47:05 - -- API Data Processed
+2025-03-10 02:47:06 - -- Battlelog Data Received
+2025-03-10 02:47:06 - -- Battlelog Data Processed
+2025-03-10 02:47:06 - Finding Server to join
+2025-03-10 02:47:06 - RC1 has less than 30 players
+2025-03-10 02:47:06 - Checking if BF4 is running
+2025-03-10 02:47:06 -  - Game IS running
+2025-03-10 02:47:06 - Staying put
+2025-03-10 02:48:48 - -- API Data Received
+2025-03-10 02:48:48 - -- API Data Processed
+2025-03-10 02:48:49 - -- Battlelog Data Received
+2025-03-10 02:48:49 - -- Battlelog Data Processed
+2025-03-10 02:48:49 - Finding Server to join
+2025-03-10 02:48:49 - RC1 has less than 30 players
+2025-03-10 02:48:49 - Checking if BF4 is running
+2025-03-10 02:48:50 -  - Game IS running
+2025-03-10 02:48:50 - Staying put
+2025-03-10 02:50:32 - -- API Data Received
+2025-03-10 02:50:32 - -- API Data Processed
+2025-03-10 02:50:33 - -- Battlelog Data Received
+2025-03-10 02:50:33 - -- Battlelog Data Processed
+2025-03-10 02:50:33 - Finding Server to join
+2025-03-10 02:50:33 - RC1 has less than 30 players
+2025-03-10 02:50:33 - Checking if BF4 is running
+2025-03-10 02:50:34 -  - Game IS running
+2025-03-10 02:50:34 - Staying put
+2025-03-10 02:52:16 - -- API Data Received
+2025-03-10 02:52:16 - -- API Data Processed
+2025-03-10 02:52:18 - -- Battlelog Data Received
+2025-03-10 02:52:18 - -- Battlelog Data Processed
+2025-03-10 02:52:18 - Finding Server to join
+2025-03-10 02:52:18 - RC1 has less than 30 players
+2025-03-10 02:52:18 - Checking if BF4 is running
+2025-03-10 02:52:19 -  - Game IS running
+2025-03-10 02:52:19 - Staying put
+2025-03-10 02:54:00 - -- API Data Received
+2025-03-10 02:54:00 - -- API Data Processed
+2025-03-10 02:54:02 - -- Battlelog Data Received
+2025-03-10 02:54:02 - -- Battlelog Data Processed
+2025-03-10 02:54:02 - Finding Server to join
+2025-03-10 02:54:02 - RC1 has less than 30 players
+2025-03-10 02:54:02 - Checking if BF4 is running
+2025-03-10 02:54:03 -  - Game IS running
+2025-03-10 02:54:03 - Staying put
+2025-03-10 02:55:44 - -- API Data Received
+2025-03-10 02:55:44 - -- API Data Processed
+2025-03-10 02:55:46 - -- Battlelog Data Received
+2025-03-10 02:55:46 - -- Battlelog Data Processed
+2025-03-10 02:55:46 - Finding Server to join
+2025-03-10 02:55:46 - RC1 has less than 30 players
+2025-03-10 02:55:46 - Checking if BF4 is running
+2025-03-10 02:55:47 -  - Game IS running
+2025-03-10 02:55:47 - Staying put
+2025-03-10 02:57:28 - -- API Data Received
+2025-03-10 02:57:28 - -- API Data Processed
+2025-03-10 02:57:30 - -- Battlelog Data Received
+2025-03-10 02:57:30 - -- Battlelog Data Processed
+2025-03-10 02:57:30 - Finding Server to join
+2025-03-10 02:57:30 - RC1 has less than 30 players
+2025-03-10 02:57:30 - Checking if BF4 is running
+2025-03-10 02:57:31 -  - Game IS running
+2025-03-10 02:57:31 - Staying put
+2025-03-10 02:59:12 - -- API Data Received
+2025-03-10 02:59:12 - -- API Data Processed
+2025-03-10 02:59:14 - -- Battlelog Data Received
+2025-03-10 02:59:14 - -- Battlelog Data Processed
+2025-03-10 02:59:14 - Finding Server to join
+2025-03-10 02:59:14 - RC1 has less than 30 players
+2025-03-10 02:59:14 - Checking if BF4 is running
+2025-03-10 02:59:15 -  - Game IS running
+2025-03-10 02:59:15 - Staying put
+2025-03-10 03:00:56 - -- API Data Received
+2025-03-10 03:00:56 - -- API Data Processed
+2025-03-10 03:00:58 - -- Battlelog Data Received
+2025-03-10 03:00:58 - -- Battlelog Data Processed
+2025-03-10 03:00:58 - Finding Server to join
+2025-03-10 03:00:58 - RC1 has less than 30 players
+2025-03-10 03:00:58 - Checking if BF4 is running
+2025-03-10 03:00:59 -  - Game IS running
+2025-03-10 03:00:59 - Staying put
+2025-03-10 03:02:40 - -- API Data Received
+2025-03-10 03:02:40 - -- API Data Processed
+2025-03-10 03:02:42 - -- Battlelog Data Received
+2025-03-10 03:02:42 - -- Battlelog Data Processed
+2025-03-10 03:02:42 - Finding Server to join
+2025-03-10 03:02:42 - RC1 has less than 30 players
+2025-03-10 03:02:42 - Checking if BF4 is running
+2025-03-10 03:02:43 -  - Game IS running
+2025-03-10 03:02:43 - Staying put
+2025-03-10 03:04:25 - -- API Data Received
+2025-03-10 03:04:25 - -- API Data Processed
+2025-03-10 03:04:26 - -- Battlelog Data Received
+2025-03-10 03:04:26 - -- Battlelog Data Processed
+2025-03-10 03:04:26 - Finding Server to join
+2025-03-10 03:04:26 - RC1 has less than 30 players
+2025-03-10 03:04:26 - Checking if BF4 is running
+2025-03-10 03:04:27 -  - Game IS running
+2025-03-10 03:04:27 - Staying put
+2025-03-10 03:06:09 - -- API Data Received
+2025-03-10 03:06:09 - -- API Data Processed
+2025-03-10 03:06:10 - -- Battlelog Data Received
+2025-03-10 03:06:10 - -- Battlelog Data Processed
+2025-03-10 03:06:10 - Finding Server to join
+2025-03-10 03:06:10 - RC1 has less than 30 players
+2025-03-10 03:06:10 - Checking if BF4 is running
+2025-03-10 03:06:11 -  - Game IS running
+2025-03-10 03:06:11 - Staying put
+2025-03-10 03:07:53 - -- API Data Received
+2025-03-10 03:07:53 - -- API Data Processed
+2025-03-10 03:07:54 - -- Battlelog Data Received
+2025-03-10 03:07:54 - -- Battlelog Data Processed
+2025-03-10 03:07:54 - Finding Server to join
+2025-03-10 03:07:54 - RC1 has less than 30 players
+2025-03-10 03:07:54 - Checking if BF4 is running
+2025-03-10 03:07:55 -  - Game IS running
+2025-03-10 03:07:55 - Staying put
+2025-03-10 03:09:37 - -- API Data Received
+2025-03-10 03:09:37 - -- API Data Processed
+2025-03-10 03:09:38 - -- Battlelog Data Received
+2025-03-10 03:09:38 - -- Battlelog Data Processed
+2025-03-10 03:09:38 - Finding Server to join
+2025-03-10 03:09:38 - RC1 has less than 30 players
+2025-03-10 03:09:38 - Checking if BF4 is running
+2025-03-10 03:09:40 -  - Game IS running
+2025-03-10 03:09:40 - Staying put
+2025-03-10 03:11:21 - -- API Data Received
+2025-03-10 03:11:21 - -- API Data Processed
+2025-03-10 03:11:23 - -- Battlelog Data Received
+2025-03-10 03:11:23 - -- Battlelog Data Processed
+2025-03-10 03:11:23 - Finding Server to join
+2025-03-10 03:11:23 - RC1 has less than 30 players
+2025-03-10 03:11:23 - Checking if BF4 is running
+2025-03-10 03:11:24 -  - Game IS running
+2025-03-10 03:11:24 - Staying put
+2025-03-10 03:13:05 - -- API Data Received
+2025-03-10 03:13:05 - -- API Data Processed
+2025-03-10 03:13:07 - -- Battlelog Data Received
+2025-03-10 03:13:07 - -- Battlelog Data Processed
+2025-03-10 03:13:07 - Finding Server to join
+2025-03-10 03:13:07 - RC1 has less than 30 players
+2025-03-10 03:13:07 - Checking if BF4 is running
+2025-03-10 03:13:08 -  - Game IS running
+2025-03-10 03:13:08 - Staying put
+2025-03-10 03:14:49 - -- API Data Received
+2025-03-10 03:14:49 - -- API Data Processed
+2025-03-10 03:14:51 - -- Battlelog Data Received
+2025-03-10 03:14:51 - -- Battlelog Data Processed
+2025-03-10 03:14:51 - Finding Server to join
+2025-03-10 03:14:51 - RC1 has less than 30 players
+2025-03-10 03:14:51 - Checking if BF4 is running
+2025-03-10 03:14:52 -  - Game IS running
+2025-03-10 03:14:52 - Staying put
+2025-03-10 03:16:33 - -- API Data Received
+2025-03-10 03:16:33 - -- API Data Processed
+2025-03-10 03:16:35 - -- Battlelog Data Received
+2025-03-10 03:16:35 - -- Battlelog Data Processed
+2025-03-10 03:16:35 - Finding Server to join
+2025-03-10 03:16:35 - RC1 has less than 30 players
+2025-03-10 03:16:35 - Checking if BF4 is running
+2025-03-10 03:16:36 -  - Game IS running
+2025-03-10 03:16:36 - Staying put
+2025-03-10 03:18:17 - -- API Data Received
+2025-03-10 03:18:17 - -- API Data Processed
+2025-03-10 03:18:19 - -- Battlelog Data Received
+2025-03-10 03:18:19 - -- Battlelog Data Processed
+2025-03-10 03:18:19 - Finding Server to join
+2025-03-10 03:18:19 - RC1 has less than 30 players
+2025-03-10 03:18:19 - Checking if BF4 is running
+2025-03-10 03:18:20 -  - Game IS running
+2025-03-10 03:18:20 - Staying put
+2025-03-10 03:20:02 - -- API Data Received
+2025-03-10 03:20:02 - -- API Data Processed
+2025-03-10 03:20:03 - -- Battlelog Data Received
+2025-03-10 03:20:03 - -- Battlelog Data Processed
+2025-03-10 03:20:03 - Finding Server to join
+2025-03-10 03:20:03 - RC1 has less than 30 players
+2025-03-10 03:20:03 - Checking if BF4 is running
+2025-03-10 03:20:04 -  - Game IS running
+2025-03-10 03:20:04 - Staying put
+2025-03-10 03:21:46 - -- API Data Received
+2025-03-10 03:21:46 - -- API Data Processed
+2025-03-10 03:21:47 - -- Battlelog Data Received
+2025-03-10 03:21:47 - -- Battlelog Data Processed
+2025-03-10 03:21:47 - Finding Server to join
+2025-03-10 03:21:47 - RC1 has less than 30 players
+2025-03-10 03:21:47 - Checking if BF4 is running
+2025-03-10 03:21:48 -  - Game IS running
+2025-03-10 03:21:48 - Staying put
+2025-03-10 03:23:30 - -- API Data Received
+2025-03-10 03:23:30 - -- API Data Processed
+2025-03-10 03:23:31 - -- Battlelog Data Received
+2025-03-10 03:23:31 - -- Battlelog Data Processed
+2025-03-10 03:23:31 - Finding Server to join
+2025-03-10 03:23:31 - RC1 has less than 30 players
+2025-03-10 03:23:31 - Checking if BF4 is running
+2025-03-10 03:23:32 -  - Game IS running
+2025-03-10 03:23:32 - Staying put
+2025-03-10 03:25:14 - -- API Data Received
+2025-03-10 03:25:14 - -- API Data Processed
+2025-03-10 03:25:15 - -- Battlelog Data Received
+2025-03-10 03:25:15 - -- Battlelog Data Processed
+2025-03-10 03:25:15 - Finding Server to join
+2025-03-10 03:25:15 - RC1 has less than 30 players
+2025-03-10 03:25:15 - Checking if BF4 is running
+2025-03-10 03:25:16 -  - Game IS running
+2025-03-10 03:25:16 - Staying put
+2025-03-10 03:26:58 - -- API Data Received
+2025-03-10 03:26:58 - -- API Data Processed
+2025-03-10 03:26:59 - -- Battlelog Data Received
+2025-03-10 03:26:59 - -- Battlelog Data Processed
+2025-03-10 03:26:59 - Finding Server to join
+2025-03-10 03:26:59 - RC1 has less than 30 players
+2025-03-10 03:26:59 - Checking if BF4 is running
+2025-03-10 03:27:01 -  - Game IS running
+2025-03-10 03:27:01 - Staying put
+2025-03-10 03:28:42 - -- API Data Received
+2025-03-10 03:28:42 - -- API Data Processed
+2025-03-10 03:28:44 - -- Battlelog Data Received
+2025-03-10 03:28:44 - -- Battlelog Data Processed
+2025-03-10 03:28:44 - Finding Server to join
+2025-03-10 03:28:44 - RC1 has less than 30 players
+2025-03-10 03:28:44 - Checking if BF4 is running
+2025-03-10 03:28:45 -  - Game IS running
+2025-03-10 03:28:45 - Staying put
+2025-03-10 03:30:26 - -- API Data Received
+2025-03-10 03:30:26 - -- API Data Processed
+2025-03-10 03:30:28 - -- Battlelog Data Received
+2025-03-10 03:30:28 - -- Battlelog Data Processed
+2025-03-10 03:30:28 - Finding Server to join
+2025-03-10 03:30:28 - RC1 has less than 30 players
+2025-03-10 03:30:28 - Checking if BF4 is running
+2025-03-10 03:30:29 -  - Game IS running
+2025-03-10 03:30:29 - Staying put
+2025-03-10 03:32:10 - -- API Data Received
+2025-03-10 03:32:10 - -- API Data Processed
+2025-03-10 03:32:12 - -- Battlelog Data Received
+2025-03-10 03:32:12 - -- Battlelog Data Processed
+2025-03-10 03:32:12 - Finding Server to join
+2025-03-10 03:32:12 - RC1 has less than 30 players
+2025-03-10 03:32:12 - Checking if BF4 is running
+2025-03-10 03:32:13 -  - Game IS running
+2025-03-10 03:32:13 - Staying put
+2025-03-10 03:33:54 - -- API Data Received
+2025-03-10 03:33:54 - -- API Data Processed
+2025-03-10 03:33:56 - -- Battlelog Data Received
+2025-03-10 03:33:56 - -- Battlelog Data Processed
+2025-03-10 03:33:56 - Finding Server to join
+2025-03-10 03:33:56 - RC1 has less than 30 players
+2025-03-10 03:33:56 - Checking if BF4 is running
+2025-03-10 03:33:57 -  - Game IS running
+2025-03-10 03:33:57 - Staying put
+2025-03-10 03:35:38 - -- API Data Received
+2025-03-10 03:35:38 - -- API Data Processed
+2025-03-10 03:35:40 - -- Battlelog Data Received
+2025-03-10 03:35:40 - -- Battlelog Data Processed
+2025-03-10 03:35:40 - Finding Server to join
+2025-03-10 03:35:40 - RC1 has less than 30 players
+2025-03-10 03:35:40 - Checking if BF4 is running
+2025-03-10 03:35:41 -  - Game IS running
+2025-03-10 03:35:41 - Staying put
+2025-03-10 03:37:21 - Error: 404
+2025-03-10 03:37:22 - Error: 404
+2025-03-10 03:37:22 - -- API Data Received
+2025-03-10 03:37:22 - -- API Data Processed

@@ -1,0 +1,9 @@
+2025-03-10 05:49:42 - Checking if BF4 is running
+2025-03-10 05:49:44 - - Game is NOT running
+2025-03-10 05:49:44 - Checking if EA app is running
+2025-03-10 05:49:44 - ea app running? True
+2025-03-10 05:49:45 - Error API: 404
+2025-03-10 05:49:45 - Error API: 404
+2025-03-10 05:49:45 - Error API: 404
+2025-03-10 05:49:45 - -- API Data Received
+2025-03-10 05:49:45 - -- API Data Processed

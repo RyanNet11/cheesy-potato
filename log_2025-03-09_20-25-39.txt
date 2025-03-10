@@ -1,0 +1,85 @@
+2025-03-09 20:25:39 - Checking if BF4 is running
+2025-03-09 20:25:40 -  - Game IS running
+2025-03-09 20:25:40 - Game Killed
+2025-03-09 20:25:50 - Checking if EA app is running
+2025-03-09 20:25:50 - ea app running? True
+2025-03-09 20:25:50 - Checking if EA app is running
+2025-03-09 20:25:50 - ea app running? True
+2025-03-09 20:25:51 - -- API Data Received
+2025-03-09 20:25:51 - -- API Data Processed
+2025-03-09 20:25:52 - -- Battlelog Data Received
+2025-03-09 20:25:53 - -- Battlelog Data Processed
+2025-03-09 20:25:53 - Finding Server to join
+2025-03-09 20:25:53 - RC1 has less than 30 players
+2025-03-09 20:25:53 - Checking if BF4 is running
+2025-03-09 20:25:55 - - Game is NOT running
+2025-03-09 20:25:55 - RC1  needs players, joining now
+2025-03-09 20:25:55 - RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz
+2025-03-09 20:26:15 - Finding Server to join
+2025-03-09 20:26:15 - RC1 has less than 30 players
+2025-03-09 20:26:15 - Checking if BF4 is running
+2025-03-09 20:26:17 - - Game is NOT running
+2025-03-09 20:26:17 - joining RC1
+2025-03-09 20:26:17 - Game Exicuted
+2025-03-09 20:27:58 - -- API Data Received
+2025-03-09 20:27:58 - -- API Data Processed
+2025-03-09 20:28:00 - -- Battlelog Data Received
+2025-03-09 20:28:00 - -- Battlelog Data Processed
+2025-03-09 20:28:00 - Finding Server to join
+2025-03-09 20:28:00 - RC1 has less than 30 players
+2025-03-09 20:28:00 - Checking if BF4 is running
+2025-03-09 20:28:02 - - Game is NOT running
+2025-03-09 20:28:02 - Server did not change, but game is not running
+2025-03-09 20:28:02 - Assume game crashed, attempting rejoin
+2025-03-09 20:28:02 - RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz
+2025-03-09 20:29:00 - Finding Server to join
+2025-03-09 20:29:00 - RC1 has less than 30 players
+2025-03-09 20:29:00 - Checking if BF4 is running
+2025-03-09 20:29:02 - - Game is NOT running
+2025-03-09 20:29:02 - joining RC1
+2025-03-09 20:29:02 - Game Exicuted
+2025-03-09 20:30:44 - -- API Data Received
+2025-03-09 20:30:44 - -- API Data Processed
+2025-03-09 20:30:45 - -- Battlelog Data Received
+2025-03-09 20:30:45 - -- Battlelog Data Processed
+2025-03-09 20:30:45 - Finding Server to join
+2025-03-09 20:30:45 - RC1 has less than 30 players
+2025-03-09 20:30:45 - Checking if BF4 is running
+2025-03-09 20:30:47 - - Game is NOT running
+2025-03-09 20:30:47 - Server did not change, but game is not running
+2025-03-09 20:30:47 - Assume game crashed, attempting rejoin
+2025-03-09 20:30:47 - RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz
+2025-03-09 20:31:26 - Finding Server to join
+2025-03-09 20:31:26 - RC1 has less than 30 players
+2025-03-09 20:31:26 - Checking if BF4 is running
+2025-03-09 20:31:28 - - Game is NOT running
+2025-03-09 20:31:28 - joining RC1
+2025-03-09 20:31:28 - Game Exicuted
+2025-03-09 20:33:10 - -- API Data Received
+2025-03-09 20:33:10 - -- API Data Processed
+2025-03-09 20:33:12 - -- Battlelog Data Received
+2025-03-09 20:33:12 - -- Battlelog Data Processed
+2025-03-09 20:33:12 - Finding Server to join
+2025-03-09 20:33:12 - RC1 has less than 30 players
+2025-03-09 20:33:12 - Checking if BF4 is running
+2025-03-09 20:33:14 - - Game is NOT running
+2025-03-09 20:33:14 - Server did not change, but game is not running
+2025-03-09 20:33:14 - Assume game crashed, attempting rejoin
+2025-03-09 20:33:14 - RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz
+2025-03-09 20:34:35 - Finding Server to join
+2025-03-09 20:34:35 - RC1 has less than 30 players
+2025-03-09 20:34:35 - Checking if BF4 is running
+2025-03-09 20:34:37 - - Game is NOT running
+2025-03-09 20:34:37 - joining RC1
+2025-03-09 20:34:37 - Game Exicuted
+2025-03-09 20:36:18 - -- API Data Received
+2025-03-09 20:36:18 - -- API Data Processed
+2025-03-09 20:36:20 - -- Battlelog Data Received
+2025-03-09 20:36:20 - -- Battlelog Data Processed
+2025-03-09 20:36:20 - Finding Server to join
+2025-03-09 20:36:20 - RC1 has less than 30 players
+2025-03-09 20:36:20 - Checking if BF4 is running
+2025-03-09 20:36:22 - - Game is NOT running
+2025-03-09 20:36:22 - Server did not change, but game is not running
+2025-03-09 20:36:22 - Assume game crashed, attempting rejoin
+2025-03-09 20:36:22 - RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz
