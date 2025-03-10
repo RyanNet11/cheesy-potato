@@ -110,13 +110,13 @@ def joinServer():
            '-requestState', 'State_ConnectToGameId', '-requestStateParams', 
            f'<data  password="aarp" putinsquad="true" gameid="{gameID}" role="soldier" personaref="{userid}" levelmode="mp"></data>', #os shananagains here (fro's signature)
            '-Online.BlazeLogLevel', '2', '-Online.DirtysockLogLevel', '2' ], 
-           shell=True, cwd='F:\Program Files\EA Games\Battlefield 4' )
+           shell=True, cwd='C:\Program Files\EA Games\Battlefield 4' )
     else:
         subprocess.run([ 'bf4.exe', '-webMode', 'MP', '-Origin_NoAppFocus', '--activate-webhelper',
            '-requestState', 'State_ConnectToGameId', '-requestStateParams',
            f'<data password="aarp" putinsquad="true" gameid="{gameID}" role="soldier" personaref="{userid}" levelmode="mp"></data>',  #he used it cuz lots of VMs
            '-Online.BlazeLogLevel', '2', '-Online.DirtysockLogLevel', '2' ],
-           shell=True, cwd='F:\Program Files (x86)\Origin Games\Battlefield 4' )
+           shell=True, cwd='C:\Program Files (x86)\Origin Games\Battlefield 4' )
     print("Game Exicuted")
 
 def CheckIfGameRunning():
