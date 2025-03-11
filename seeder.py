@@ -1,7 +1,8 @@
 import os, subprocess, requests, time, random, logging, sys, builtins
 from datetime import datetime
 
-userid = "1938903914"
+userid = "YOUR USERID HERE"
+drive = "C"
 gameRunning = False
 eaRunning = False
 servers = {    #set up a place for all the data to live happily ever after
@@ -105,18 +106,18 @@ def joinServer():
     print("joining", f"{server}")
     
     gameID = servers[f"{server}"]["gameID"]
-    if os.path.exists('C:\Program Files\EA Games\Battlefield 4'):
+    if os.path.exists(f'{drive}:\\Program Files\\EA Games\\Battlefield 4'):
         subprocess.run([ 'bf4.exe', '-webMode', 'MP', '-Origin_NoAppFocus', '--activate-webhelper', 
            '-requestState', 'State_ConnectToGameId', '-requestStateParams', 
            f'<data  password="aarp" putinsquad="true" gameid="{gameID}" role="soldier" personaref="{userid}" levelmode="mp"></data>', #os shananagains here (fro's signature)
            '-Online.BlazeLogLevel', '2', '-Online.DirtysockLogLevel', '2' ], 
-           shell=True, cwd='C:\Program Files\EA Games\Battlefield 4' )
+           shell=True, cwd=f'{drive}:\\Program Files\\EA Games\\Battlefield 4' )
     else:
         subprocess.run([ 'bf4.exe', '-webMode', 'MP', '-Origin_NoAppFocus', '--activate-webhelper',
            '-requestState', 'State_ConnectToGameId', '-requestStateParams',
            f'<data password="aarp" putinsquad="true" gameid="{gameID}" role="soldier" personaref="{userid}" levelmode="mp"></data>',  #he used it cuz lots of VMs
            '-Online.BlazeLogLevel', '2', '-Online.DirtysockLogLevel', '2' ],
-           shell=True, cwd='C:\Program Files (x86)\Origin Games\Battlefield 4' )
+           shell=True, cwd=f'{drive}:\\Program Files (x86)\\Origin Games\\Battlefield 4' )
     print("Game Exicuted")
 
 def CheckIfGameRunning():
