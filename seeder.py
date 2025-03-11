@@ -40,7 +40,7 @@ curent = ""
 log_filename = f"log_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.txt"
 
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,
     format="%(asctime)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
     handlers=[
