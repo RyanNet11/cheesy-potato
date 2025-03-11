@@ -1,7 +1,7 @@
 import os, subprocess, requests, time, random, logging, sys, builtins
 from datetime import datetime
 
-userid = "YOUR USERID HERE"
+userid = "316590630"
 drive = "C"
 gameRunning = False
 eaRunning = False
@@ -41,7 +41,7 @@ curent = ""
 log_filename = f"log_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.txt"
 
 logging.basicConfig(
-    level=logging.ERROR,
+    level=logging.INFO,
     format="%(asctime)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
     handlers=[
