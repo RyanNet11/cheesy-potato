@@ -1,7 +1,7 @@
 import os, subprocess, requests, time, random, logging, sys, builtins
 from datetime import datetime
 
-userid = "316590630"
+userid = "1008306980949"
 drive = "C"
 gameRunning = False
 eaRunning = False
