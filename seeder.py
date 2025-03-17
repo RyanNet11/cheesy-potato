@@ -1,7 +1,7 @@
 import os, subprocess, requests, time, random, logging, sys, builtins
 from datetime import datetime
 
-userid = "1003994486801"
+userid = "1007548456850"
 drive = "C"
 gameRunning = False
 eaRunning = False
@@ -41,7 +41,7 @@ curent = ""
 log_filename = f"log_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.txt"
 
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.ERROR,
     format="%(asctime)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
     handlers=[
@@ -49,10 +49,6 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)   # Print logs to console
     ]
 )
-def print_with_log(*args, **kwargs):
-    message = " ".join(str(arg) for arg in args)
-    logging.info(message)
-builtins.print = print_with_log
 
 def API_data():
     for server_name, server_info in servers.items():     #get data from api for players and GUID
@@ -61,13 +57,13 @@ def API_data():
         servers[server_name]["api_data"] = response.json()
         if response.status_code != 200:
             print(f"Error API: {response.status_code}")
-    print("-- API Data Received")
+    #print("-- API Data Received")
     for server_name, server_info in servers.items():   # set player coutns and GUID in the servers list
         server_info["player_count"] = server_info["api_data"].get("numPlayers", 0) 
         server_info["GUID"] = server_info["api_data"].get("guid", 0) 
         # print(server_info["player_count"])  
         # print(server_info["GUID"]) 
-    print("-- API Data Processed")
+    #print("-- API Data Processed")
             
 def Battlelog_data():
     for server_name, server_info in servers.items():    #battlelog data based off api guid
@@ -76,10 +72,10 @@ def Battlelog_data():
         servers[server_name]["battlelog_data"] = response.json()
         if response.status_code != 200:
             print(f"Error Battlelog: {response.status_code}")
-    print("-- Battlelog Data Received")
+    #print("-- Battlelog Data Received")
     for server_name, server_info in servers.items():
         server_info["gameID"] = server_info["battlelog_data"]["snapshot"].get("gameId")
-    print("-- Battlelog Data Processed")
+    #print("-- Battlelog Data Processed")
 
 def findServer():
     print("Finding Server to join")
@@ -217,8 +213,6 @@ def main():
             elif whereAt != curent:
                 print(f"{curent}", "is full, joining", f"{whereAt}","instead")
                 killGame()
-                print("RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz")
-                time.sleep(random_number)
                 joinServer()
             elif whereAt == curent:
                 print("Staying put")
@@ -230,18 +224,16 @@ def main():
                 print("Servers are full, staying put")
             elif whereAt != curent:
                 print(f"{whereAt}", " needs players, joining now")
-                print("RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz")
-                time.sleep(random_number)
                 joinServer()
             elif whereAt == curent:
                 print("Server did not change, but game is not running")
                 print("Assume game crashed, attempting rejoin")
-                print("RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz")
-                time.sleep(random_number)
                 joinServer()
             else:
                 print("  - Error: Game is not running, no paramiters met -  ")
                 print(servers)
+        print("RandOmIzIng TIminG ActIoNs fOr FunNy ReaASonz")
+        time.sleep(random_number)
         time.sleep(100)
         
         
