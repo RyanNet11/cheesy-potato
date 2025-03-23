@@ -1,3 +1,3 @@
 cd /d "C:\seeder"
-"python" "C:\seeder\seeder.py"
+python seeder.py
 pause
