@@ -98,7 +98,7 @@ def findServer():
             print("RC3 has less than 30 players")
             desiredServer = servers.RC3
             return servers.RC3
-        elif servers.RC2.playercount < 70:  
+        elif servers.RC2.playercount < 30:  
             print("RC2 has less than 30 players")
             desiredServer = servers.RC2
             return servers.RC2
