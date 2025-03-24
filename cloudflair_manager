@@ -1,0 +1,87 @@
+import requests, json, logging, time
+from datetime import datetime, timedelta  
+accounts_total = 0
+accounts_active = 0
+accounts_RC1 = 0
+accounts_RC2 = 0
+accounts_RC3 = 0
+accounts_idle = 0
+RC1_gameID = 0
+RC2_gameID = 0
+RC3_gameID = 0
+RC1_playercount = 0
+RC2_playercount = 0
+RC3_playercount = 0
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+
+
+
+print(datetime.utcnow())
+
+while(True):
+    
+    accounts_total = 0
+    accounts_active = 0
+    accounts_RC1 = 0
+    accounts_RC2 = 0
+    accounts_RC3 = 0
+    accounts_idle = 0
+    RC1_response = requests.get("https://battlelog.battlefield.com/bf4/servers/show/pc/cfa68ec0-a030-4247-90e1-9b643a71edcd/?json=1&join=true")
+    RC2_response = requests.get("https://battlelog.battlefield.com/bf4/servers/show/pc/8529e349-cd4a-4fa1-965a-afb4e8d7431e/?json=1&join=true")
+    RC3_response = requests.get("https://battlelog.battlefield.com/bf4/servers/show/pc/de2e60c6-159a-4a5b-b30d-a1ee51998a8d/?json=1&join=true")
+    RC1_gameID = RC1_response.json()["data"]["gameId"]
+    logging.debug(f"RC1 game id = {RC1_gameID}")
+    RC2_gameID = RC2_response.json()["data"]["gameId"]
+    logging.debug(f"RC2 game id = {RC2_gameID}")
+    RC3_gameID = RC3_response.json()["data"]["gameId"]
+    logging.debug(f"RC3 game id = {RC3_gameID}")   
+    
+    RC1_playercount = RC1_response.json()["data"]["slots"]["2"].get("current", 0)
+    logging.debug(f"RC1 player count = {RC1_playercount}")
+    RC2_playercount = RC2_response.json()["data"]["slots"]["2"].get("current", 0)
+    logging.debug(f"RC2 player count = {RC2_playercount}")
+    RC3_playercount = RC3_response.json()["data"]["slots"]["2"].get("current", 0)
+    logging.debug(f"RC3 player count = {RC3_playercount}")   
+     
+    response = requests.get("https://accounting.rtx3080sc.workers.dev/")
+    logging.debug(f"Response received: {response.json()}")
+    for Account in response.json():
+        time_sent = datetime.strptime(Account["timeSent"], "%Y-%m-%d %H:%M:%S.%f")
+        time_difference = datetime.utcnow() - time_sent
+
+        accounts_total = accounts_total + 1
+        if Account["inServer"] == True:
+            accounts_active = accounts_active + 1
+            
+        if Account["gameID"] == RC1_gameID:
+            accounts_RC1 = accounts_RC1 + 1
+        
+        if Account["gameID"] == RC2_gameID:
+            accounts_RC2 = accounts_RC2 + 1   
+            
+        if Account["gameID"] == RC3_gameID:
+            accounts_RC3 = accounts_RC3 + 1    
+        
+        if Account["gameID"] == "idle":
+            accounts_idle = accounts_idle + 1   
+        
+        logging.debug(f"Account: {Account['Account']} | Time sent: {time_sent} | Time difference: {time_difference}")
+        time.sleep(0.5)
+
+        if time_difference > timedelta(minutes=15):
+            logging.info(f"{Account['Account']} has been inactive for 15 minutes. Removing it.")
+            json = {
+                "Account": Account["Account"],
+            }
+            response_delete = requests.delete("https://accounting.rtx3080sc.workers.dev/", json=json)
+            logging.debug(f"Delete request status: {response_delete.status_code}, response: {response_delete.text}")
+        else:
+            remaining_time = timedelta(minutes=15) - time_difference
+            logging.debug(f"{Account['Account']} is active. Not removing it for {remaining_time} minutes")
+    logging.debug(f"Accounts total: {accounts_total}")
+    logging.debug(f"Acccounts active: {accounts_active}")
+    logging.debug(f"Seeders in RC1: {accounts_RC1}") 
+    logging.debug(f"Seeders in RC2: {accounts_RC2}") 
+    logging.debug(f"Seeders in RC3: {accounts_RC3}") 
+    logging.debug(f"Accounts Idle: {accounts_idle}") 
+    time.sleep(30)
