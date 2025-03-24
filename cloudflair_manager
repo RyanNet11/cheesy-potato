@@ -1,5 +1,5 @@
 import requests, json, logging, time
-from datetime import datetime, timedelta  
+from datetime import datetime, timedelta, timezone  
 accounts_total = 0
 accounts_active = 0
 accounts_RC1 = 0
@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 
 
 
-print(datetime.utcnow())
+print(datetime.now(timezone.utc))
 
 while(True):
     
@@ -46,8 +46,8 @@ while(True):
     response = requests.get("https://accounting.rtx3080sc.workers.dev/")
     logging.debug(f"Response received: {response.json()}")
     for Account in response.json():
-        time_sent = datetime.strptime(Account["timeSent"], "%Y-%m-%d %H:%M:%S.%f")
-        time_difference = datetime.utcnow() - time_sent
+        time_sent = datetime.fromisoformat(Account["timeSent"])  # Keeps timezone
+        time_difference = datetime.now(timezone.utc) - time_sent.astimezone(timezone.utc)
 
         accounts_total = accounts_total + 1
         if Account["inServer"] == True:
