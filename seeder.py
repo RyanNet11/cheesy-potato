@@ -1,5 +1,5 @@
 import os, subprocess, requests, time, random, sys, webbrowser, json
-from datetime import datetime
+from datetime import datetime, timezone
 
 # load config data
 with open('config.json', 'r') as file:
@@ -48,7 +48,7 @@ def updateAccountTracker():
             "personaRef": f"{userid}",
             "inServer": f"{gameRunning}",
             "gameID": f"{desiredServer.gameID}",
-            "timeSent": f"{datetime.utcnow()}"
+            "timeSent": f"{datetime.now(timezone.utc)}"
         }        
     try:
         requests.put("https://accounting.rtx3080sc.workers.dev/", json=json)
