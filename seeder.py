@@ -48,7 +48,7 @@ def updateAccountTracker():
             "personaRef": f"{userid}",
             "inServer": f"{gameRunning}",
             "gameID": f"{desiredServer.gameID}",
-            "timeSent": f"{datetime.now()}"
+            "timeSent": f"{datetime.utcnow()}"
         }        
     try:
         requests.put("https://accounting.rtx3080sc.workers.dev/", json=json)
